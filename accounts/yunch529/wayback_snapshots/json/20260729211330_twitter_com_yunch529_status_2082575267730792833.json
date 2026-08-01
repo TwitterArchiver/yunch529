@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081420095654608896"
+      ],
+      "media_source_tweet_id": [
+        "2081420359883215331"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2082575267730792833",
+    "created_at": "2026-07-29T21:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082575267730792833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXdrFCB3JN",
+          "end": 95,
+          "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+          "media_key": "3_2081420095654608896",
+          "start": 72,
+          "url": "https://t.co/ZXdrFCB3JN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082575267730792833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081420359883215331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: ！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081420095654608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKwjJXaQAA9yNU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420095654608896"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081420359883215331",
+        "created_at": "2026-07-26T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081420359883215331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdrFCB3JN",
+              "end": 82,
+              "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+              "media_key": "3_2081420095654608896",
+              "start": 59,
+              "url": "https://t.co/ZXdrFCB3JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081420359883215331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 33955,
+          "like_count": 250,
+          "quote_count": 39,
+          "reply_count": 64,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420095654608896"
+          ],
+          "media_source_tweet_id": [
+            "2081420359883215331"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2082575267730792833",
+        "created_at": "2026-07-29T21:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082575267730792833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdrFCB3JN",
+              "end": 95,
+              "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+              "media_key": "3_2081420095654608896",
+              "start": 72,
+              "url": "https://t.co/ZXdrFCB3JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082575267730792833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081420359883215331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: ！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkysPR80\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "ZakkysPR80"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 417,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

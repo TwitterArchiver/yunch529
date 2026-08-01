@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2082504938907971808",
+    "created_at": "2026-07-29T16:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082504938907971808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2025288475206189056",
+          "start": 3,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082504938907971808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082338126970962038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi0599458659662: 一步一跪一磕头 祝抖音的傻逼立刻死全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2082504938907971808",
+        "created_at": "2026-07-29T16:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082504938907971808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2025288475206189056",
+              "start": 3,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082504938907971808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082338126970962038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi0599458659662: 一步一跪一磕头 祝抖音的傻逼立刻死全家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2082338126970962038",
+        "created_at": "2026-07-29T05:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082338126970962038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082338126970962038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4054,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一步一跪一磕头 祝抖音的傻逼立刻死全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 原号  @Yunofd6 @Yun6lyr\nod自伤。自戒中  11年   欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "location": "1.3km",
+        "name": "T . T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081458447498063872/dZsVmSCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 3,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

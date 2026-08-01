@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2072788008865243544",
+    "created_at": "2026-07-29T13:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082452302020202820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "fanwei_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082452302020202820",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072788008865243544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanwei_17 17我想进群呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2072788008865243544",
+        "created_at": "2026-07-29T13:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452302020202820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452302020202820",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072788008865243544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 17我想进群呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2072788008865243544",
+        "created_at": "2026-07-02T21:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072788008865243544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072788008865243544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "✝️欢迎来到十七教主的领土✝️ \n本账号有发布药理知识帮助内容，十七承诺这项服务永远是免费的，并且不会遗漏绝大部分的问题(但我会鸽)\n\n(如果有人私信问我xx哪里买，我会在法律范围内为ta提供安全的购买渠道，但此行为无营销成分)\n\n关于群组:目前创建了\"致幻早自习\"(x内群组)与\"致幻晚自习\"(tg群组)入群需审核，请遵守群规，严禁售卖、营销、广告、渠道分享，禁止求购、大规模引流、怂恿od、怂恿自伤(可以随意讨论，但不能怂恿他人)\n群组创建目的是供大家交流学习药理相关帮助已存在od行为的同学们做到风险最小化，不要在群组里暴露任何个人信息与动机，不要涉及违法内容，不要相信任何主动私聊你的药贩子，如果存在请及时向我/管理员举报，群内直接营销这种行为请管理员直接踢出，这不仅是为大家的安全着想，也是为了保证其他人对我们早晚自习的评价与看法干净，我不希望再出现上次那种群内同学被药贩子骗的情况出现。\n\n最后谢谢大家喜欢我，我不知道怎么回报你们，祝你们天天开心，幸福永存。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8845,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✝️欢迎来到十七教主的领土✝️ \n本账号有发布药理知识帮助内容，十七承诺这项服务永远是免费的，并且不会遗漏绝大部分的问题(但我会鸽)\n\n(如果有人私信问我xx哪里买，我会在法律范围内为ta提供安全的购买渠道，但此行为无营销成分)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 原号  @Yunofd6 @Yun6lyr\nod自伤。自戒中  11年   欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部/包容理解与宽恕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072788008865243544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 1535,
+          "like_count": 5935,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      }
+    ]
+  }
+}
