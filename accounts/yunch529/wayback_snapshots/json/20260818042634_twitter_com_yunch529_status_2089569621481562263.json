@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081691218694782976"
+      ],
+      "media_source_tweet_id": [
+        "2081691567375683868"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089569621481562263",
+    "created_at": "2026-08-18T04:26:34.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089569621481562263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zG2iQjGnxG",
+          "end": 112,
+          "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+          "media_key": "3_2081691218694782976",
+          "start": 89,
+          "url": "https://t.co/zG2iQjGnxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089569621481562263",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2081691218694782976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081691567375683868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081691218694782976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOnIlZaQAADieo.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081691218694782976"
+          ],
+          "media_source_tweet_id": [
+            "2081691567375683868"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089569621481562263",
+        "created_at": "2026-08-18T04:26:34.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089569621481562263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG2iQjGnxG",
+              "end": 112,
+              "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+              "media_key": "3_2081691218694782976",
+              "start": 89,
+              "url": "https://t.co/zG2iQjGnxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089569621481562263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081691218694782976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081691567375683868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081691218694782976"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081691567375683868",
+        "created_at": "2026-07-27T10:42:00.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081691567375683868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG2iQjGnxG",
+              "end": 99,
+              "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+              "media_key": "3_2081691218694782976",
+              "start": 76,
+              "url": "https://t.co/zG2iQjGnxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081691567375683868",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081691218694782976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13753,
+          "like_count": 111,
+          "quote_count": 9,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\nod蛆 zc 暴露癖 大脑光滑 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089569621481562263",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 196,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089390749934907615",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 545,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

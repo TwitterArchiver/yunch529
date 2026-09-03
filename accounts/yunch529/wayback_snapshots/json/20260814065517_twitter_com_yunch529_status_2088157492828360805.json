@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2088157492828360805",
+    "created_at": "2026-08-14T06:55:17.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088157492828360805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1465907369523781641",
+          "start": 3,
+          "username": "anaoliveira777_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088157492828360805",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40388
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087741835741425858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anaoliveira777_: *entro no Twitter*\n*Tweeto pra 0 pessoas*\n*reposto 500 tweets*\n*saio do Twitter*\n*abro Twitter denovo*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2088157492828360805",
+        "created_at": "2026-08-14T06:55:17.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088157492828360805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1465907369523781641",
+              "start": 3,
+              "username": "anaoliveira777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088157492828360805",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40388
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087741835741425858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anaoliveira777_: *entro no Twitter*\n*Tweeto pra 0 pessoas*\n*reposto 500 tweets*\n*saio do Twitter*\n*abro Twitter denovo*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465907369523781641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2087741835741425858",
+        "created_at": "2026-08-13T03:23:36.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087741835741425858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087741835741425858",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 983,
+          "impression_count": 852954,
+          "like_count": 104238,
+          "quote_count": 501,
+          "reply_count": 129,
+          "retweet_count": 40388
+        },
+        "reply_settings": "everyone",
+        "text": "*entro no Twitter*\n*Tweeto pra 0 pessoas*\n*reposto 500 tweets*\n*saio do Twitter*\n*abro Twitter denovo*"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088157492828360805",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 164,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-01T04:55:55.000Z",
+        "description": "𝘕𝘦𝘮 𝘰 𝘱𝘴𝘪𝘲𝘶𝘪𝘢𝘵𝘳𝘢 𝘮𝘦 𝘲𝘶𝘪𝘴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/oliveir_a77x?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/oliveir_a77x?igsh=M2d3dnhtZHhhbWJq",
+                "start": 0,
+                "url": "https://t.co/GGlora6wET"
+              }
+            ]
+          }
+        },
+        "id": "1465907369523781641",
+        "is_identity_verified": false,
+        "location": "santa izabel do pará",
+        "most_recent_tweet_id": "2088111573915119970",
+        "name": "Ana Oliveira",
+        "pinned_tweet_id": "2079546460660527118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465907369523781641/1781484428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320590152097793/ctWRdHds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 1182,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/GGlora6wET",
+        "username": "anaoliveira777_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

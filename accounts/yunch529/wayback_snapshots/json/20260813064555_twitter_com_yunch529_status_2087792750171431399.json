@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2087792750171431399",
+    "created_at": "2026-08-13T06:45:55.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087792750171431399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293107738640384",
+          "start": 3,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087792750171431399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087529794514882959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHUGE0731: ：隔壁班转来一个毒虫，靠od吸引了好多互fo，我们都o不过他！\n：可是我早就不o了～\n：鸡哥也在！～\n：什么？！把我的鸡尘拿来！\n（左边o个美美，右边o个普普，不要对我封封，我的肝会痛痛～）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2087792750171431399",
+        "created_at": "2026-08-13T06:45:55.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087792750171431399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662293107738640384",
+              "start": 3,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087792750171431399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087529794514882959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHUGE0731: ：隔壁班转来一个毒虫，靠od吸引了好多互fo，我们都o不过他！\n：可是我早就不o了～\n：鸡哥也在！～\n：什么？！把我的鸡尘拿来！\n（左边o个美美，右边o个普普，不要对我封封，我的肝会痛痛～）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2087529794514882959",
+        "created_at": "2026-08-12T13:21:02.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087529794514882959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087529794514882959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1374,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "：隔壁班转来一个毒虫，靠od吸引了好多互fo，我们都o不过他！\n：可是我早就不o了～\n：鸡哥也在！～\n：什么？！把我的鸡尘拿来！\n（左边o个美美，右边o个普普，不要对我封封，我的肝会痛痛～）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087792750171431399",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 162,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "is_identity_verified": false,
+        "location": "马孔多下雨了",
+        "most_recent_tweet_id": "2087698147053383788",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293107738640384/1719297767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1237,
+          "like_count": 36186,
+          "listed_count": 4,
+          "media_count": 781,
+          "tweet_count": 12444
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

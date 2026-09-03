@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088627344072417307",
+    "created_at": "2026-08-15T15:42:13.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088652487914144183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2078923160880398336",
+          "start": 0,
+          "username": "fufurcqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088652487914144183",
+    "in_reply_to_user_id": "2078923160880398336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088651624277254150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufurcqr 唉😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088627344072417307",
+        "created_at": "2026-08-15T15:42:13.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088652487914144183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078923160880398336",
+              "start": 0,
+              "username": "fufurcqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088652487914144183",
+        "in_reply_to_user_id": "2078923160880398336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088651624277254150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufurcqr 唉😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078923160880398336",
+        "conversation_id": "2088627344072417307",
+        "created_at": "2026-08-15T15:38:47.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088651624277254150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088651624277254150",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088635993381613580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 别这样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088652487914144183",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 170,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T19:22:10.000Z",
+        "description": "欢迎不健全人互fo没看到私信我/isfj/oder/精神疾病/死宅/低精力/自残/餐券女/社会败类/网络蛀虫",
+        "id": "2078923160880398336",
+        "is_identity_verified": false,
+        "location": "🚪20",
+        "most_recent_tweet_id": "2088652054205997253",
+        "name": "条条",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078923160880398336/1785092438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080705170829422593/exKBIxhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 64,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "fufurcqr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

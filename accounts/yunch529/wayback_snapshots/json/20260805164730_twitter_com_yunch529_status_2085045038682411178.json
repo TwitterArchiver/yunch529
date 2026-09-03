@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085045038682411178",
+    "created_at": "2026-08-05T16:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085045038682411178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2081165863592554496",
+          "start": 3,
+          "username": "awapepper"
+        },
+        {
+          "end": 24,
+          "id": "1908957018469085184",
+          "start": 15,
+          "username": "ml921127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085045038682411178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084838300305780793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awapepper: @ml921127 宝宝 宝宝 我教你如何吸毒吸得更爽 你可以去找一个吸毒的外国伪娘 然后你就吸着它牛子里面的精子全都是毒品精华的 绝对会更爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085045038682411178",
+        "created_at": "2026-08-05T16:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085045038682411178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2081165863592554496",
+              "start": 3,
+              "username": "awapepper"
+            },
+            {
+              "end": 24,
+              "id": "1908957018469085184",
+              "start": 15,
+              "username": "ml921127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085045038682411178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084838300305780793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awapepper: @ml921127 宝宝 宝宝 我教你如何吸毒吸得更爽 你可以去找一个吸毒的外国伪娘 然后你就吸着它牛子里面的精子全都是毒品精华的 绝对会更爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081165863592554496",
+        "conversation_id": "2084580893646336483",
+        "created_at": "2026-08-05T03:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084838300305780793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908957018469085184",
+              "start": 0,
+              "username": "ml921127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084838300305780793",
+        "in_reply_to_user_id": "1908957018469085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084580893646336483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ml921127 宝宝 宝宝 我教你如何吸毒吸得更爽 你可以去找一个吸毒的外国伪娘 然后你就吸着它牛子里面的精子全都是毒品精华的 绝对会更爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 122,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T23:58:54.000Z",
+        "description": "I like Minecraft",
+        "id": "2081165863592554496",
+        "name": "cutepepper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081167793039527936/WqmN3dFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "awapepper",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:56:49.000Z",
+        "description": "药物会带我们逃离这个世界，要和Archer一起吗这里很安全^^（非同圈闲聊🚪188\n不约炮不下海，男的再问4000+关注我的我会查成分。你在看我的同时我也在看你。",
+        "id": "1908957018469085184",
+        "name": "Archer",
+        "pinned_tweet_id": "2084799610141524241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820490600407040/KnVuGfp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 61,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "ml921127",
+        "verified": false
+      }
+    ]
+  }
+}

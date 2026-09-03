@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2086088239014883743",
+    "created_at": "2026-08-09T04:51:50.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086314489973219549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086314489973219549",
+    "in_reply_to_user_id": "289298525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086303841621102705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 谢谢你！😙💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2086088239014883743",
+        "created_at": "2026-08-09T04:51:50.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086314489973219549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086314489973219549",
+        "in_reply_to_user_id": "289298525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086303841621102705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 谢谢你！😙💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2086088239014883743",
+        "created_at": "2026-08-09T04:09:32.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086303841621102705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086303841621102705",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086088239014883743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 好康！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086314489973219549",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 148,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "非常好吃的饼酱/顺男/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 80,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 57,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086303841621102705",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1779252285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 443,
+          "like_count": 15441,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

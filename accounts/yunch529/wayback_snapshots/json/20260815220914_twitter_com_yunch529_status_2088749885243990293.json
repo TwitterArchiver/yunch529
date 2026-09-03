@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2088749885243990293",
+    "created_at": "2026-08-15T22:09:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088749885243990293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038212687713423360",
+          "start": 3,
+          "username": "Hyiko020717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088749885243990293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088654018168119543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hyiko020717: Destiny Drug Lab首次抽奖开启\nJackpot 华彩乐章30t（前名prx4）1人\n一等奖 练习曲10g（pr原粉）2人\n二等奖 练习曲5g（pr原粉）3人\n三等奖 店内商品单份9折 5人\n2026 8 17 18:00开奖 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2088654011922857984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxjwfdbQAA16CA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088749885243990293",
+        "created_at": "2026-08-15T22:09:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088749885243990293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038212687713423360",
+              "start": 3,
+              "username": "Hyiko020717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088749885243990293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088654018168119543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hyiko020717: Destiny Drug Lab首次抽奖开启\nJackpot 华彩乐章30t（前名prx4）1人\n一等奖 练习曲10g（pr原粉）2人\n二等奖 练习曲5g（pr原粉）3人\n三等奖 店内商品单份9折 5人\n2026 8 17 18:00开奖 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088654011922857984"
+          ]
+        },
+        "author_id": "2038212687713423360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088654018168119543",
+        "created_at": "2026-08-15T15:48:17.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088654018168119543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Wj6pVh6xK",
+              "end": 143,
+              "expanded_url": "https://x.com/Hyiko020717/status/2088654018168119543/photo/1",
+              "media_key": "3_2088654011922857984",
+              "start": 120,
+              "url": "https://t.co/1Wj6pVh6xK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654018168119543",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088654011922857984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 430,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Destiny Drug Lab首次抽奖开启\nJackpot 华彩乐章30t（前名prx4）1人\n一等奖 练习曲10g（pr原粉）2人\n二等奖 练习曲5g（pr原粉）3人\n三等奖 店内商品单份9折 5人\n2026 8 17 18:00开奖 https://t.co/1Wj6pVh6xK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088749885243990293",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 176,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T11:13:29.000Z",
+        "description": "这里是destiny drug lab唯一官方群\nhttps://t.co/3E8IKeVeSz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+xvRCST9gXlUzN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+xvRCST9gXlUzNWU9",
+                "start": 25,
+                "url": "https://t.co/3E8IKeVeSz"
+              }
+            ]
+          }
+        },
+        "id": "2038212687713423360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088654275589370138",
+        "name": "天命实验室",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038213184809766912/ofG_s7kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 19,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Hyiko020717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

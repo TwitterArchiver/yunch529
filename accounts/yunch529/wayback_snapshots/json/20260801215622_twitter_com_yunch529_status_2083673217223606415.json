@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083665630365138998",
+    "created_at": "2026-08-01T21:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083673217223606415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053902534998384640",
+          "start": 0,
+          "username": "Yequan96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083673217223606415",
+    "in_reply_to_user_id": "2053902534998384640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083670776146759712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yequan96 早上好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083665630365138998",
+        "created_at": "2026-08-01T21:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083673217223606415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053902534998384640",
+              "start": 0,
+              "username": "Yequan96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083673217223606415",
+        "in_reply_to_user_id": "2053902534998384640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083670776146759712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yequan96 早上好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053902534998384640",
+        "conversation_id": "2083665630365138998",
+        "created_at": "2026-08-01T21:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083670776146759712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083670776146759712",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083665630365138998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 早上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 94,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T18:18:53.000Z",
+        "description": "https://t.co/mRGrMKJ507死妈普瑞原粉赶紧进频道买",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zeehoa",
+                "end": 23,
+                "expanded_url": "https://t.me/Zeehoa",
+                "start": 0,
+                "url": "https://t.co/mRGrMKJ507"
+              }
+            ]
+          }
+        },
+        "id": "2053902534998384640",
+        "location": "深蓝之地",
+        "name": "其中之一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058647030151643136/6FrLBygN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 71,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "Yequan96",
+        "verified": false
+      }
+    ]
+  }
+}

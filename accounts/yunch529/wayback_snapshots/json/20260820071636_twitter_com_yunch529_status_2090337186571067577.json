@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090337186571067577",
+    "created_at": "2026-08-20T07:16:36.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090337186571067577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047894021457211393",
+          "start": 3,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090337186571067577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090304026462310527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IiRin_00917_QwQ: 想象一下你重度抑郁，全身像瘫痪一样，无法起床，结果你妈叫你要调整作息，出门运动就会好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090337186571067577",
+        "created_at": "2026-08-20T07:16:36.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090337186571067577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047894021457211393",
+              "start": 3,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090337186571067577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090304026462310527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IiRin_00917_QwQ: 想象一下你重度抑郁，全身像瘫痪一样，无法起床，结果你妈叫你要调整作息，出门运动就会好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2090304026462310527",
+        "created_at": "2026-08-20T05:04:50.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090304026462310527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090304026462310527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 432,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下你重度抑郁，全身像瘫痪一样，无法起床，结果你妈叫你要调整作息，出门运动就会好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong123\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "maozhong123"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090337186571067577",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 218,
+          "like_count": 2169,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nmtx/hrt：25-06-23/家暴党-天赋党\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@Surajazeem❀家族耻辱@woaiuai0721❀🐱@linring2010❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "Surajazeem"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "linring2010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2090333010847809737",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 129,
+          "like_count": 7060,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2936
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

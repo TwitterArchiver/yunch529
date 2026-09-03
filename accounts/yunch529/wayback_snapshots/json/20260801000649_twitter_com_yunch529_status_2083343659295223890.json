@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083343659295223890",
+    "created_at": "2026-08-01T00:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083343659295223890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1574668085314965504",
+          "start": 3,
+          "username": "Meer19002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083343659295223890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918474470723076293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meer19002: 嗑药和吸毒纯粹两个概念好吗？且不说软硬毒品的区别，有些嗑药人嗑了几次就没意思，不嗑了，毒品能这样？还有特别搞笑的吸硬毒品冰毒的冰妹说自己是嗑药的我去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083343659295223890",
+        "created_at": "2026-08-01T00:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083343659295223890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1574668085314965504",
+              "start": 3,
+              "username": "Meer19002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083343659295223890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918474470723076293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meer19002: 嗑药和吸毒纯粹两个概念好吗？且不说软硬毒品的区别，有些嗑药人嗑了几次就没意思，不嗑了，毒品能这样？还有特别搞笑的吸硬毒品冰毒的冰妹说自己是嗑药的我去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1918474470723076293",
+        "created_at": "2025-05-03T01:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918474470723076293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918474470723076293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5300,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药和吸毒纯粹两个概念好吗？且不说软硬毒品的区别，有些嗑药人嗑了几次就没意思，不嗑了，毒品能这样？还有特别搞笑的吸硬毒品冰毒的冰妹说自己是嗑药的我去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 59,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "好想死☠️",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838764299734650880/DF7plmmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 745,
+          "like_count": 11226,
+          "listed_count": 12,
+          "media_count": 1403,
+          "tweet_count": 11423
+        },
+        "url": "",
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

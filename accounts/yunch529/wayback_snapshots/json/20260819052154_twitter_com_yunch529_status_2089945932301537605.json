@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089945932301537605",
+    "created_at": "2026-08-19T05:21:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089945932301537605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054912328978817024",
+          "start": 3,
+          "username": "Nauseous_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089945932301537605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067599697121075647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nauseous_17: Ket  测试(模拟给药 仅供娱乐科普)\n\n「以下纯个人虚构娱乐！！！仅供参考，严禁模仿，任何物质使用请咨询医师，支持科学减害 严格遵循X规则」\n\n(本帖只做测试科普 模拟盐酸艾司氯胺酮治疗进行后 患者的大致感受，不出售不推广也不存在任何卖家)…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2067599694046605312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGW95VasAAQS0I.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089945932301537605",
+        "created_at": "2026-08-19T05:21:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089945932301537605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054912328978817024",
+              "start": 3,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089945932301537605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067599697121075647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nauseous_17: Ket  测试(模拟给药 仅供娱乐科普)\n\n「以下纯个人虚构娱乐！！！仅供参考，严禁模仿，任何物质使用请咨询医师，支持科学减害 严格遵循X规则」\n\n(本帖只做测试科普 模拟盐酸艾司氯胺酮治疗进行后 患者的大致感受，不出售不推广也不存在任何卖家)…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067599694046605312"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2067599697121075647",
+        "created_at": "2026-06-18T13:25:56.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067599697121075647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwcJ2X4DLf",
+              "end": 146,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2067599697121075647/photo/1",
+              "media_key": "3_2067599694046605312",
+              "start": 123,
+              "url": "https://t.co/HwcJ2X4DLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067599697121075647",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2067599694046605312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 17901,
+          "like_count": 80,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Ket  测试(模拟给药 仅供娱乐科普)\n\n「以下纯个人虚构娱乐！！！仅供参考，严禁模仿，任何物质使用请咨询医师，支持科学减害 严格遵循X规则」\n\n(本帖只做测试科普 模拟盐酸艾司氯胺酮治疗进行后 患者的大致感受，不出售不推广也不存在任何卖家) https://t.co/HwcJ2X4DLf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089945932301537605",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 215,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "is_identity_verified": false,
+        "location": "Hopelessly free",
+        "most_recent_tweet_id": "2075194049733226855",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2075194049733226855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054912328978817024/1778864618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 124,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

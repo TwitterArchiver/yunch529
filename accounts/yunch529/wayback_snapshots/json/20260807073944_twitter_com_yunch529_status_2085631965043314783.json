@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085631965043314783",
+    "created_at": "2026-08-07T07:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085631965043314783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676812547767554049",
+          "start": 3,
+          "username": "KawaiiRilly0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085631965043314783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085343206301225140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KawaiiRilly0: 新置顶～！\n最近有0个门哥 所以价格又降了...\n\n你好！我素Rilly！生活所迫来推乞讨\n08 infj 172/55\n喜欢交朋友 互fo等欢迎私信！\n想买新裙子穿！希望有人能包养我！\n欢迎打赏 一分也是爱 会用来呈现更好的作品的！🥺\n\n〔…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2085343053322289152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCgdVgagAAc_9I.jpg",
+        "width": 864
+      },
+      {
+        "height": 1461,
+        "media_key": "3_2085343053267750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCgdVTaUAA_yUB.jpg",
+        "width": 864
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2085343053297131521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCgdVaaoAEJso8.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2085343053871804416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCgdXjbcAAgLTM.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085631965043314783",
+        "created_at": "2026-08-07T07:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085631965043314783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676812547767554049",
+              "start": 3,
+              "username": "KawaiiRilly0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085631965043314783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085343206301225140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KawaiiRilly0: 新置顶～！\n最近有0个门哥 所以价格又降了...\n\n你好！我素Rilly！生活所迫来推乞讨\n08 infj 172/55\n喜欢交朋友 互fo等欢迎私信！\n想买新裙子穿！希望有人能包养我！\n欢迎打赏 一分也是爱 会用来呈现更好的作品的！🥺\n\n〔…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085343053322289152",
+            "3_2085343053267750912",
+            "3_2085343053297131521",
+            "3_2085343053871804416"
+          ]
+        },
+        "author_id": "1676812547767554049",
+        "conversation_id": "2085343206301225140",
+        "created_at": "2026-08-06T12:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085343206301225140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "门槛"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "线下"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "原味"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "定制"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "男娘"
+            },
+            {
+              "end": 166,
+              "start": 159,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpQ3Zp2MKG",
+              "end": 190,
+              "expanded_url": "https://x.com/KawaiiRilly0/status/2085343206301225140/photo/1",
+              "media_key": "3_2085343053322289152",
+              "start": 167,
+              "url": "https://t.co/GpQ3Zp2MKG"
+            },
+            {
+              "display_url": "pic.x.com/GpQ3Zp2MKG",
+              "end": 190,
+              "expanded_url": "https://x.com/KawaiiRilly0/status/2085343206301225140/photo/1",
+              "media_key": "3_2085343053267750912",
+              "start": 167,
+              "url": "https://t.co/GpQ3Zp2MKG"
+            },
+            {
+              "display_url": "pic.x.com/GpQ3Zp2MKG",
+              "end": 190,
+              "expanded_url": "https://x.com/KawaiiRilly0/status/2085343206301225140/photo/1",
+              "media_key": "3_2085343053297131521",
+              "start": 167,
+              "url": "https://t.co/GpQ3Zp2MKG"
+            },
+            {
+              "display_url": "pic.x.com/GpQ3Zp2MKG",
+              "end": 190,
+              "expanded_url": "https://x.com/KawaiiRilly0/status/2085343206301225140/photo/1",
+              "media_key": "3_2085343053871804416",
+              "start": 167,
+              "url": "https://t.co/GpQ3Zp2MKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085343206301225140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶～！\n最近有0个门哥 所以价格又降了...\n\n你好！我素Rilly！生活所迫来推乞讨\n08 infj 172/55\n喜欢交朋友 互fo等欢迎私信！\n想买新裙子穿！希望有人能包养我！\n欢迎打赏 一分也是爱 会用来呈现更好的作品的！🥺\n\n〔入门前请看好简介！〕\n#门槛 #门槛哥 #线下 #原味  #定制  #男娘 #可爱的男孩子 https://t.co/GpQ3Zp2MKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 139,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T04:37:33.000Z",
+        "description": "芥素小号.... 大号@KwiRilly\n🎀萌新小楠梁/infj/脾气很好/梦想是成为一只猫咪/互fo等欢迎私信/欢迎打赏！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "KwiRilly"
+              }
+            ]
+          }
+        },
+        "id": "1676812547767554049",
+        "location": "China",
+        "name": "KwiRilly的小号",
+        "pinned_tweet_id": "2085343206301225140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754425098889838592/6vtvznHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 141,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "KawaiiRilly0",
+        "verified": false
+      }
+    ]
+  }
+}

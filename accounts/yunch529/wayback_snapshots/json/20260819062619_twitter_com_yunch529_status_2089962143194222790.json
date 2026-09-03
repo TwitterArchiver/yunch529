@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089846196537851904"
+      ],
+      "media_source_tweet_id": [
+        "2089846205761073491"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "2089962143194222790",
+    "created_at": "2026-08-19T06:26:19.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089962143194222790"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "JJBA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054576687887601664",
+          "start": 3,
+          "username": "Diavolo_pink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H9LFG1pxfS",
+          "end": 59,
+          "expanded_url": "https://x.com/Diavolo_pink/status/2089846205761073491/photo/1",
+          "media_key": "3_2089846196537851904",
+          "start": 36,
+          "url": "https://t.co/H9LFG1pxfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089962143194222790",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2089846196537851904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089846205761073491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diavolo_pink: cute #JJBA\n\n(╹◡╹) https://t.co/H9LFG1pxfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089846196537851904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQCgCxPXAAADaSM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089846196537851904"
+          ],
+          "media_source_tweet_id": [
+            "2089846205761073491"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2089962143194222790",
+        "created_at": "2026-08-19T06:26:19.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089962143194222790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "JJBA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054576687887601664",
+              "start": 3,
+              "username": "Diavolo_pink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9LFG1pxfS",
+              "end": 59,
+              "expanded_url": "https://x.com/Diavolo_pink/status/2089846205761073491/photo/1",
+              "media_key": "3_2089846196537851904",
+              "start": 36,
+              "url": "https://t.co/H9LFG1pxfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089962143194222790",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089846196537851904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089846205761073491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diavolo_pink: cute #JJBA\n\n(╹◡╹) https://t.co/H9LFG1pxfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089846196537851904"
+          ]
+        },
+        "author_id": "2054576687887601664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2089846205761073491",
+        "created_at": "2026-08-18T22:45:37.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089846205761073491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "JJBA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9LFG1pxfS",
+              "end": 41,
+              "expanded_url": "https://x.com/Diavolo_pink/status/2089846205761073491/photo/1",
+              "media_key": "3_2089846196537851904",
+              "start": 18,
+              "url": "https://t.co/H9LFG1pxfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089846205761073491",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089846196537851904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 8806,
+          "like_count": 1421,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "cute #JJBA\n\n(╹◡╹) https://t.co/H9LFG1pxfS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089962143194222790",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 215,
+          "like_count": 1962,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T14:57:45.000Z",
+        "description": "18+sisjshshhshsheuhskjajajajbzvabh hahahahahahah( ´_ゝ`)（＾Ｏ＾☆♪╰(*´︶`*)╯♡☆*:.｡. o(≧▽≦)o .｡.:*☆（＾ν＾）（＾ω＾）(о´∀`о)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mewchan69.straw.page",
+                "end": 23,
+                "expanded_url": "https://mewchan69.straw.page",
+                "start": 0,
+                "url": "https://t.co/bKfzPABBbh"
+              }
+            ]
+          }
+        },
+        "id": "2054576687887601664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089904549054099487",
+        "name": "mew chan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054576687887601664/1787019761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089538397530419201/OmdGsXds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 0,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/bKfzPABBbh",
+        "username": "Diavolo_pink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

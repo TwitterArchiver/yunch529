@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2084235862364316044",
+    "created_at": "2026-08-03T11:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084240493530300601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084240493530300601",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084238178257678631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 mua爱你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2084235862364316044",
+        "created_at": "2026-08-03T11:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084240493530300601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084240493530300601",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084238178257678631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 mua爱你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2084235862364316044",
+        "created_at": "2026-08-03T11:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084238178257678631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084238178257678631",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084235862364316044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 妈妈好萌…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 117,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1211,
+          "like_count": 35072,
+          "listed_count": 4,
+          "media_count": 759,
+          "tweet_count": 11944
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

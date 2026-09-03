@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090338178242859476",
+    "created_at": "2026-08-20T09:56:39.000Z",
+    "display_text_range": [
+      17,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090377465323782620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986430182622961666",
+          "start": 0,
+          "username": "LiShun89264bjgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090377465323782620",
+    "in_reply_to_user_id": "1986430182622961666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090347008020357407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiShun89264bjgj 似乎不行 我是缺爱逼 我分不清 目的 除非太明显"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090338178242859476",
+        "created_at": "2026-08-20T09:56:39.000Z",
+        "display_text_range": [
+          17,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090377465323782620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986430182622961666",
+              "start": 0,
+              "username": "LiShun89264bjgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090377465323782620",
+        "in_reply_to_user_id": "1986430182622961666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090347008020357407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiShun89264bjgj 似乎不行 我是缺爱逼 我分不清 目的 除非太明显"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986430182622961666",
+        "conversation_id": "2090338178242859476",
+        "created_at": "2026-08-20T07:55:38.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090347008020357407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090347008020357407",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090338178242859476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 没爱能做下去吗？σ(^_^)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong123\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "maozhong123"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090377465323782620",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 221,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T13:47:30.000Z",
+        "description": "https://t.co/McvnYgiNed\n02，170-100，直男直男直男（重要的事说三遍）\n中度抑郁伴随焦虑，喜欢割手手（成功戒掉了好吧，ps：我很牛逼）\n喜欢听歌，喜欢打游戏\n努力经营自己的糖比生活，骂我默认暗恋我\n只想交朋友谢谢（男女不限）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lishun89624bjgj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lishun89624bjgj",
+                "start": 0,
+                "url": "https://t.co/McvnYgiNed"
+              }
+            ]
+          }
+        },
+        "id": "1986430182622961666",
+        "is_identity_verified": false,
+        "location": "四川，目前暂住广东",
+        "most_recent_tweet_id": "2090377244124574058",
+        "name": "书中人怀中猫",
+        "pinned_tweet_id": "2088672708238377239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986430182622961666/1785850077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986431628340830210/pw7nx0oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 61,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "LiShun89264bjgj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

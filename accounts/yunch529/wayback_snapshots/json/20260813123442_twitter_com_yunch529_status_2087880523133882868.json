@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087836897070522369"
+      ],
+      "media_source_tweet_id": [
+        "2087836913218576567"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2087880523133882868",
+    "created_at": "2026-08-13T12:34:42.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087880523133882868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2084973651229626368",
+          "start": 3,
+          "username": "Yuki132831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJVqGBauPf",
+          "end": 97,
+          "expanded_url": "https://x.com/Yuki132831/status/2087836913218576567/photo/1",
+          "media_key": "3_2087836897070522369",
+          "start": 74,
+          "url": "https://t.co/uJVqGBauPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087880523133882868",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087836897070522369"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087836913218576567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki132831: 今天是疯狂星期四，在北京时刻 18.00 吃下50粒鸡尘你将会在 20.00 见到楼顶有烤鸡反复跳楼，实现烤鸡自由 https://t.co/uJVqGBauPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2087836897070522369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl8mJbXoAEeJgw.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087836897070522369"
+          ]
+        },
+        "author_id": "2084973651229626368",
+        "conversation_id": "2087836913218576567",
+        "created_at": "2026-08-13T09:41:24.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087836913218576567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJVqGBauPf",
+              "end": 81,
+              "expanded_url": "https://x.com/Yuki132831/status/2087836913218576567/photo/1",
+              "media_key": "3_2087836897070522369",
+              "start": 58,
+              "url": "https://t.co/uJVqGBauPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087836913218576567",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087836897070522369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天是疯狂星期四，在北京时刻 18.00 吃下50粒鸡尘你将会在 20.00 见到楼顶有烤鸡反复跳楼，实现烤鸡自由 https://t.co/uJVqGBauPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087836897070522369"
+          ],
+          "media_source_tweet_id": [
+            "2087836913218576567"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2087880523133882868",
+        "created_at": "2026-08-13T12:34:42.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087880523133882868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2084973651229626368",
+              "start": 3,
+              "username": "Yuki132831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJVqGBauPf",
+              "end": 97,
+              "expanded_url": "https://x.com/Yuki132831/status/2087836913218576567/photo/1",
+              "media_key": "3_2087836897070522369",
+              "start": 74,
+              "url": "https://t.co/uJVqGBauPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087880523133882868",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087836897070522369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087836913218576567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki132831: 今天是疯狂星期四，在北京时刻 18.00 吃下50粒鸡尘你将会在 20.00 见到楼顶有烤鸡反复跳楼，实现烤鸡自由 https://t.co/uJVqGBauPf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087880523133882868",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 164,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n前世@Yuki312813 @Yuki281331 \n备用@Yuki283113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Yuki312813"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki281331"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Yuki283113"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2087877696864833621",
+        "name": "岐哥，梦想吐了。3.0。",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084973651229626368/1785932825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 310,
+          "like_count": 1011,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

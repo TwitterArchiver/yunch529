@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083213871683420614",
+    "created_at": "2026-07-31T15:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083213871683420614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2025288475206189056",
+          "start": 3,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083213871683420614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082914406128894342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi0599458659662: 刷到个帖子觉得好有意思啊，评论区肯定更有意思，操你妈啊，点进去全是人机在评论，我操你妈啊打你妈逼的飞机破你爸的处约你妈的炮，我操你妈，求你了马斯克，你他妈能不能出一个一键清除人机的功能啊。我他妈被这个傻逼人机搞的好烦啊。高质量评论看不到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083213871683420614",
+        "created_at": "2026-07-31T15:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083213871683420614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2025288475206189056",
+              "start": 3,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083213871683420614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082914406128894342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi0599458659662: 刷到个帖子觉得好有意思啊，评论区肯定更有意思，操你妈啊，点进去全是人机在评论，我操你妈啊打你妈逼的飞机破你爸的处约你妈的炮，我操你妈，求你了马斯克，你他妈能不能出一个一键清除人机的功能啊。我他妈被这个傻逼人机搞的好烦啊。高质量评论看不到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2082914406128894342",
+        "created_at": "2026-07-30T19:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082914406128894342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082914406128894342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 123839,
+          "like_count": 2054,
+          "quote_count": 6,
+          "reply_count": 312,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "刷到个帖子觉得好有意思啊，评论区肯定更有意思，操你妈啊，点进去全是人机在评论，我操你妈啊打你妈逼的飞机破你爸的处约你妈的炮，我操你妈，求你了马斯克，你他妈能不能出一个一键清除人机的功能啊。我他妈被这个傻逼人机搞的好烦啊。高质量评论看不到。全你妈了个逼是我福不黑不信你看，我看你妈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2082586153597947997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 26,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "location": "14250km",
+        "name": "T . T",
+        "pinned_tweet_id": "2083068747921965276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767484260659200/gTCWASzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 5,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1019
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

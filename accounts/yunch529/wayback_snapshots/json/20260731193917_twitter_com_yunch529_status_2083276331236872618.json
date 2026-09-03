@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083276321996800000"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083276331236872618",
+    "created_at": "2026-07-31T19:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083276331236872618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLX7xPM6uc",
+          "end": 46,
+          "expanded_url": "https://x.com/yunch529/status/2083276331236872618/photo/1",
+          "media_key": "3_2083276321996800000",
+          "start": 23,
+          "url": "https://t.co/jLX7xPM6uc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083276331236872618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我细化了一下 真不错 她在给自己画上特效妆容 https://t.co/jLX7xPM6uc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083276321996800000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlIxvWaAAAWwkM.jpg",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083276321996800000"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083276331236872618",
+        "created_at": "2026-07-31T19:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083276331236872618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLX7xPM6uc",
+              "end": 46,
+              "expanded_url": "https://x.com/yunch529/status/2083276331236872618/photo/1",
+              "media_key": "3_2083276321996800000",
+              "start": 23,
+              "url": "https://t.co/jLX7xPM6uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083276331236872618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我细化了一下 真不错 她在给自己画上特效妆容 https://t.co/jLX7xPM6uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2082586153597947997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      }
+    ]
+  }
+}

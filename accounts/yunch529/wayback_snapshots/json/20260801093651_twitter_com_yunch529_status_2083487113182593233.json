@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083464610628464964",
+    "created_at": "2026-08-01T09:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083487113182593233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065242891795169280",
+          "start": 0,
+          "username": "cnaltgirls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083487113182593233",
+    "in_reply_to_user_id": "2065242891795169280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083480770849710474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnaltgirls 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083464610628464964",
+        "created_at": "2026-08-01T09:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083487113182593233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065242891795169280",
+              "start": 0,
+              "username": "cnaltgirls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083487113182593233",
+        "in_reply_to_user_id": "2065242891795169280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083480770849710474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnaltgirls 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065242891795169280",
+        "conversation_id": "2083464610628464964",
+        "created_at": "2026-08-01T09:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083480770849710474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083480770849710474",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083464610628464964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 宝宝我想私信你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 74,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T01:22:49.000Z",
+        "description": "✖️ 地雷妹 (Jirai Kei) ✖️ 量产型 ✖️ 病弱系 (Menhera) ✖️ 邪道可爱✖️ 亚逼 (altgirl) ✖️ 精神小妹 ✖️ Galu (辣妹) ✖️ 餐券妹 ✖️ 废土幸存者 ✖️ 天使界隈 ✖️ 水色界隈 ✖️ Y2K千禧✖️ 哥特 (Goth) ✖️ 视觉系 (VK) ✖️ 清楚系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asianaltgirls",
+                "end": 23,
+                "expanded_url": "https://t.me/asianaltgirls",
+                "start": 0,
+                "url": "https://t.co/PwvxXI4MRe"
+              }
+            ]
+          }
+        },
+        "id": "2065242891795169280",
+        "location": "Unknown ",
+        "name": "亚逼收容altgirlxx",
+        "pinned_tweet_id": "2070607988239552521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065264465751494656/w0GcaVWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 500,
+          "like_count": 740,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/PwvxXI4MRe",
+        "username": "cnaltgirls",
+        "verified": true
+      }
+    ]
+  }
+}

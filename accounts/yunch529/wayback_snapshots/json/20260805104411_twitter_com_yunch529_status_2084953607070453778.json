@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2084953607070453778",
+    "created_at": "2026-08-05T10:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084953607070453778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055376212751470593",
+          "start": 3,
+          "username": "AngelMayLies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084953607070453778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084302861366952096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelMayLies: 想象一下所有人开始抽大麻，然后世界上没有战争了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2084953607070453778",
+        "created_at": "2026-08-05T10:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084953607070453778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055376212751470593",
+              "start": 3,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953607070453778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084302861366952096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelMayLies: 想象一下所有人开始抽大麻，然后世界上没有战争了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084302861366952096",
+        "created_at": "2026-08-03T15:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084302861366952096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084302861366952096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5948,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下所有人开始抽大麻，然后世界上没有战争了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 119,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 60,
+          "like_count": 1369,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

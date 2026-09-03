@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089786771223531520",
+        "3_2089786790110519296",
+        "3_2089786799728041984"
+      ],
+      "media_source_tweet_id": [
+        "2089786810096390620",
+        "2089786810096390620",
+        "2089786810096390620"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089791696813121683",
+    "created_at": "2026-08-18T19:09:01.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089791696813121683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2078923160880398336",
+          "start": 3,
+          "username": "fufurcqr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RsRyMlTzBb",
+          "end": 123,
+          "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+          "media_key": "3_2089786771223531520",
+          "start": 100,
+          "url": "https://t.co/RsRyMlTzBb"
+        },
+        {
+          "display_url": "pic.x.com/RsRyMlTzBb",
+          "end": 123,
+          "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+          "media_key": "3_2089786790110519296",
+          "start": 100,
+          "url": "https://t.co/RsRyMlTzBb"
+        },
+        {
+          "display_url": "pic.x.com/RsRyMlTzBb",
+          "end": 123,
+          "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+          "media_key": "3_2089786799728041984",
+          "start": 100,
+          "url": "https://t.co/RsRyMlTzBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089791696813121683",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089786771223531520"
+      },
+      {
+        "media_key": "3_2089786790110519296"
+      },
+      {
+        "media_key": "3_2089786799728041984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089786810096390620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fufurcqr: 好友位🚪20互关免（请备注vx或QQ\n求哥哥姐姐资助😭💗\n家住湖南十八线小县城经济条件艰苦 因家中无权无势遭同学老师霸凌休学 精神疾病自杀未遂染上💊 缺爱缺钱💰社交孤儿💔 https://t.co/RsRyMlTzBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089786771223531520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBp_wsW0AAziNA.jpg",
+        "width": 3072
+      },
+      {
+        "height": 647,
+        "media_key": "3_2089786790110519296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBqA3DXYAAtiT7.jpg",
+        "width": 1079
+      },
+      {
+        "height": 602,
+        "media_key": "3_2089786799728041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBqBa4XIAAPTh3.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089786771223531520",
+            "3_2089786790110519296",
+            "3_2089786799728041984"
+          ],
+          "media_source_tweet_id": [
+            "2089786810096390620",
+            "2089786810096390620",
+            "2089786810096390620"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089791696813121683",
+        "created_at": "2026-08-18T19:09:01.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089791696813121683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2078923160880398336",
+              "start": 3,
+              "username": "fufurcqr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsRyMlTzBb",
+              "end": 123,
+              "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+              "media_key": "3_2089786771223531520",
+              "start": 100,
+              "url": "https://t.co/RsRyMlTzBb"
+            },
+            {
+              "display_url": "pic.x.com/RsRyMlTzBb",
+              "end": 123,
+              "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+              "media_key": "3_2089786790110519296",
+              "start": 100,
+              "url": "https://t.co/RsRyMlTzBb"
+            },
+            {
+              "display_url": "pic.x.com/RsRyMlTzBb",
+              "end": 123,
+              "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+              "media_key": "3_2089786799728041984",
+              "start": 100,
+              "url": "https://t.co/RsRyMlTzBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089791696813121683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089786771223531520"
+          },
+          {
+            "media_key": "3_2089786790110519296"
+          },
+          {
+            "media_key": "3_2089786799728041984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089786810096390620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fufurcqr: 好友位🚪20互关免（请备注vx或QQ\n求哥哥姐姐资助😭💗\n家住湖南十八线小县城经济条件艰苦 因家中无权无势遭同学老师霸凌休学 精神疾病自杀未遂染上💊 缺爱缺钱💰社交孤儿💔 https://t.co/RsRyMlTzBb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089786771223531520",
+            "3_2089786790110519296",
+            "3_2089786799728041984"
+          ]
+        },
+        "author_id": "2078923160880398336",
+        "conversation_id": "2089786810096390620",
+        "created_at": "2026-08-18T18:49:36.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089786810096390620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsRyMlTzBb",
+              "end": 109,
+              "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+              "media_key": "3_2089786771223531520",
+              "start": 86,
+              "url": "https://t.co/RsRyMlTzBb"
+            },
+            {
+              "display_url": "pic.x.com/RsRyMlTzBb",
+              "end": 109,
+              "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+              "media_key": "3_2089786790110519296",
+              "start": 86,
+              "url": "https://t.co/RsRyMlTzBb"
+            },
+            {
+              "display_url": "pic.x.com/RsRyMlTzBb",
+              "end": 109,
+              "expanded_url": "https://x.com/fufurcqr/status/2089786810096390620/photo/1",
+              "media_key": "3_2089786799728041984",
+              "start": 86,
+              "url": "https://t.co/RsRyMlTzBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089786810096390620",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089786771223531520"
+          },
+          {
+            "media_key": "3_2089786790110519296"
+          },
+          {
+            "media_key": "3_2089786799728041984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好友位🚪20互关免（请备注vx或QQ\n求哥哥姐姐资助😭💗\n家住湖南十八线小县城经济条件艰苦 因家中无权无势遭同学老师霸凌休学 精神疾病自杀未遂染上💊 缺爱缺钱💰社交孤儿💔 https://t.co/RsRyMlTzBb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089791696813121683",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 209,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T19:22:10.000Z",
+        "description": "欢迎不健全人互fo没看到私信我/isfj/oder/精神疾病/欢迎聊天/死宅/低精力/🔪🩸/餐券女/社会败类/网络蛀虫",
+        "id": "2078923160880398336",
+        "is_identity_verified": false,
+        "location": "🚪20互关免",
+        "most_recent_tweet_id": "2089790173735436794",
+        "name": "条条",
+        "pinned_tweet_id": "2089786810096390620",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078923160880398336/1785092438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089341156651929600/4R5Hpoke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 67,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "fufurcqr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

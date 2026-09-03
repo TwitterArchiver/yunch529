@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088478047238504449"
+      ],
+      "media_source_tweet_id": [
+        "2088478061054525596"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088616986788192594",
+    "created_at": "2026-08-15T13:21:08.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088616986788192594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Natm9ERKpw",
+          "end": 52,
+          "expanded_url": "https://x.com/gdioiui/status/2088478061054525596/photo/1",
+          "media_key": "3_2088478047238504449",
+          "start": 29,
+          "url": "https://t.co/Natm9ERKpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088616986788192594",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088478047238504449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088478061054525596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 不要强奸窝啊.... 齁齁齁🥵 https://t.co/Natm9ERKpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2088478047238504449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvDt_7aQAEkap-.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088478047238504449"
+          ],
+          "media_source_tweet_id": [
+            "2088478061054525596"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088616986788192594",
+        "created_at": "2026-08-15T13:21:08.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088616986788192594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Natm9ERKpw",
+              "end": 52,
+              "expanded_url": "https://x.com/gdioiui/status/2088478061054525596/photo/1",
+              "media_key": "3_2088478047238504449",
+              "start": 29,
+              "url": "https://t.co/Natm9ERKpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088616986788192594",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088478047238504449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088478061054525596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 不要强奸窝啊.... 齁齁齁🥵 https://t.co/Natm9ERKpw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088478047238504449"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2088478061054525596",
+        "created_at": "2026-08-15T04:09:06.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088478061054525596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Natm9ERKpw",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2088478061054525596/photo/1",
+              "media_key": "3_2088478047238504449",
+              "start": 16,
+              "url": "https://t.co/Natm9ERKpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088478061054525596",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088478047238504449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2015,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "不要强奸窝啊.... 齁齁齁🥵 https://t.co/Natm9ERKpw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088616986788192594",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 171,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2088583824469057991",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 483,
+          "like_count": 5024,
+          "listed_count": 5,
+          "media_count": 1781,
+          "tweet_count": 8926
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

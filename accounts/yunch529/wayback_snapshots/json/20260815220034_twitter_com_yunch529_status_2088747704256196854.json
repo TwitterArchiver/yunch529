@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088747704256196854",
+    "created_at": "2026-08-15T22:00:34.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088747704256196854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058088045380026368",
+          "start": 3,
+          "username": "qianyunhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088747704256196854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088549816372752772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qianyunhr: 别人想开的：奥迪 奔驰 \n我想开的：普瑞巴林\n就很…你懂吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088747704256196854",
+        "created_at": "2026-08-15T22:00:34.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088747704256196854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058088045380026368",
+              "start": 3,
+              "username": "qianyunhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088747704256196854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088549816372752772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qianyunhr: 别人想开的：奥迪 奔驰 \n我想开的：普瑞巴林\n就很…你懂吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058088045380026368",
+        "conversation_id": "2088549816372752772",
+        "created_at": "2026-08-15T08:54:14.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088549816372752772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088549816372752772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "别人想开的：奥迪 奔驰 \n我想开的：普瑞巴林\n就很…你懂吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088747704256196854",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 175,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:31:46.000Z",
+        "description": "圣殿的漆已经掉了´∀`大家一起当婊子吧！\n這裡是qianyun愆昀 可以叫我千云\n^‥^希望成为有价值的人！\n梦想变成一只小鸡\n🔪/中度抑郁/前oder 致死还是小资历\n莫言 苏童 余华？ 以及荒谬主义者\n努力成为健全逼！嗯\n你很可爱呀！互fo我喜欢的入",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/f0D5P8sR64"
+              }
+            ]
+          }
+        },
+        "id": "2058088045380026368",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2088624465760641276",
+        "name": "qianyun",
+        "pinned_tweet_id": "2088228222848954484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058088045380026368/1779530062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058088663800811520/EsUZ0HXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 130,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/f0D5P8sR64",
+        "username": "qianyunhr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

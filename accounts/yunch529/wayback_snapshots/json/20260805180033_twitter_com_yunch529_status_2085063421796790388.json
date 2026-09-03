@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085049131895312384"
+      ],
+      "media_source_tweet_id": [
+        "2085049236647973106"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085063421796790388",
+    "created_at": "2026-08-05T18:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085063421796790388"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "les"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "wlw"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "长发t"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "长发男"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "反差"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "互fo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2078923160880398336",
+          "start": 3,
+          "username": "fufurcqr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLh7zknHED",
+          "end": 82,
+          "expanded_url": "https://x.com/fufurcqr/status/2085049236647973106/video/1",
+          "media_key": "13_2085049131895312384",
+          "start": 59,
+          "url": "https://t.co/CLh7zknHED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085063421796790388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085049236647973106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fufurcqr: 好女孩姐姐送你上天堂\n#les \n#wlw \n#长发t \n#长发男 \n#反差 \n#互fo https://t.co/CLh7zknHED"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29767,
+        "height": 960,
+        "media_key": "13_2085049131895312384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085049131895312384/img/CM6OOrFThaX0BmOT.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085049131895312384/vid/avc1/320x426/zPi5sHPL98T-NZEt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085049131895312384/vid/avc1/480x640/u5gvjRYGOkxi6JZW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085049131895312384/vid/avc1/720x960/TiaSOf4Xz9SOYw-Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085049131895312384/pl/EnvHQFvdwY3hswfw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085049131895312384"
+          ]
+        },
+        "author_id": "2078923160880398336",
+        "conversation_id": "2085049236647973106",
+        "created_at": "2026-08-05T17:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085049236647973106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "les"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "wlw"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "长发t"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "长发男"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "反差"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLh7zknHED",
+              "end": 68,
+              "expanded_url": "https://x.com/fufurcqr/status/2085049236647973106/video/1",
+              "media_key": "13_2085049131895312384",
+              "start": 45,
+              "url": "https://t.co/CLh7zknHED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085049236647973106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好女孩姐姐送你上天堂\n#les \n#wlw \n#长发t \n#长发男 \n#反差 \n#互fo https://t.co/CLh7zknHED"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085049131895312384"
+          ],
+          "media_source_tweet_id": [
+            "2085049236647973106"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085063421796790388",
+        "created_at": "2026-08-05T18:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085063421796790388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "les"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "wlw"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "长发t"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "长发男"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "反差"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "互fo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2078923160880398336",
+              "start": 3,
+              "username": "fufurcqr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLh7zknHED",
+              "end": 82,
+              "expanded_url": "https://x.com/fufurcqr/status/2085049236647973106/video/1",
+              "media_key": "13_2085049131895312384",
+              "start": 59,
+              "url": "https://t.co/CLh7zknHED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085063421796790388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085049236647973106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fufurcqr: 好女孩姐姐送你上天堂\n#les \n#wlw \n#长发t \n#长发男 \n#反差 \n#互fo https://t.co/CLh7zknHED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 122,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T19:22:10.000Z",
+        "description": "欢迎互fo",
+        "id": "2078923160880398336",
+        "location": "喜欢女生男的关注死全家",
+        "name": "条条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080705170829422593/exKBIxhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 44,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "fufurcqr",
+        "verified": false
+      }
+    ]
+  }
+}

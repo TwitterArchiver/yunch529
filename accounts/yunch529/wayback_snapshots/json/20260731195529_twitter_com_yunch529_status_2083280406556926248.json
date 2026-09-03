@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083276331236872618",
+    "created_at": "2026-07-31T19:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083280406556926248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866555901685174272",
+          "start": 0,
+          "username": "KUN77896951567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083280406556926248",
+    "in_reply_to_user_id": "1866555901685174272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083278196817219794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUN77896951567 我的作息很阴间呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083276331236872618",
+        "created_at": "2026-07-31T19:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083280406556926248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866555901685174272",
+              "start": 0,
+              "username": "KUN77896951567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083280406556926248",
+        "in_reply_to_user_id": "1866555901685174272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083278196817219794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUN77896951567 我的作息很阴间呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866555901685174272",
+        "conversation_id": "2083276331236872618",
+        "created_at": "2026-07-31T19:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083278196817219794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083278196817219794",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083276331236872618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 芙芙好棒 怎么还没睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2082586153597947997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 32,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T18:49:59.000Z",
+        "description": "alive for die",
+        "id": "1866555901685174272",
+        "location": "上海",
+        "name": "TOPKUN07",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998428712665305088/D0-_Tac9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "KUN77896951567",
+        "verified": false
+      }
+    ]
+  }
+}

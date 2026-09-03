@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090097080295711002",
+    "created_at": "2026-08-19T18:40:42.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090146958149312670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236134053205557248",
+          "start": 0,
+          "username": "fQRWXKb6o7Pnw7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090146958149312670",
+    "in_reply_to_user_id": "1236134053205557248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090104221647634774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fQRWXKb6o7Pnw7f 对 卧槽 我就是 啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090097080295711002",
+        "created_at": "2026-08-19T18:40:42.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090146958149312670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236134053205557248",
+              "start": 0,
+              "username": "fQRWXKb6o7Pnw7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090146958149312670",
+        "in_reply_to_user_id": "1236134053205557248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090104221647634774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fQRWXKb6o7Pnw7f 对 卧槽 我就是 啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236134053205557248",
+        "conversation_id": "2090097080295711002",
+        "created_at": "2026-08-19T15:50:53.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090104221647634774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090104221647634774",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090097080295711002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 😐你不会无套吧～建议检查一波身体。这种搞人心态的往往有病（物理上的传染病）。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090146958149312670",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 208,
+          "like_count": 2103,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T03:38:38.000Z",
+        "description": "探究本质就是我的性格和动机",
+        "id": "1236134053205557248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090138072205910471",
+        "name": "精神病院院长",
+        "pinned_tweet_id": "1928323815978754220",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236134053205557248/1748582978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928322893802524673/MI5QTX50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 221,
+          "like_count": 267,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 4445
+        },
+        "url": "",
+        "username": "fQRWXKb6o7Pnw7f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

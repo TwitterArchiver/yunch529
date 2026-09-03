@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2090144158027776200",
+    "created_at": "2026-08-20T07:05:05.000Z",
+    "display_text_range": [
+      24,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090334289754038588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennainai666"
+        },
+        {
+          "end": 23,
+          "id": "1795072631169044480",
+          "start": 15,
+          "username": "L0OKMe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090334289754038588",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090296443143864790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennainai666 @L0OKMe3 这尼玛不是 grok对我的印象吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2090144158027776200",
+        "created_at": "2026-08-20T07:05:05.000Z",
+        "display_text_range": [
+          24,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090334289754038588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennainai666"
+            },
+            {
+              "end": 23,
+              "id": "1795072631169044480",
+              "start": 15,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090334289754038588",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090296443143864790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennainai666 @L0OKMe3 这尼玛不是 grok对我的印象吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2090144158027776200",
+        "created_at": "2026-08-20T04:34:42.000Z",
+        "display_text_range": [
+          9,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090296443143864790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090296443143864790",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090144158027776200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 你是个背负童年家庭暴力阴影、正努力自戒药瘾与自伤的人。LGBT友好多年，猫系人设明显，靠拍涩涩和付费内容维持生计，对特定人感情很深。推文里直接吐露对父母的排斥、想磕药解离的欲望，互动时会回应支持，整体给人坦诚、脆弱又带点黑色幽默的印象。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong123\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "maozhong123"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090334289754038588",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 218,
+          "like_count": 2159,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090326832784830672",
+        "name": "河南之神",
+        "pinned_tweet_id": "2088955373269270873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 778,
+          "like_count": 1228,
+          "listed_count": 3,
+          "media_count": 524,
+          "tweet_count": 4152
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "8月15 天台見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2090144158027776200",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1770214959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088616166600437762/psxVgQwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7055,
+          "following_count": 225,
+          "like_count": 32539,
+          "listed_count": 20,
+          "media_count": 217,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

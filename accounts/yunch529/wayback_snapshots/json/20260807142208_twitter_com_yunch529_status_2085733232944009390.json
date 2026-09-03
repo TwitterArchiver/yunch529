@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085560477720150016",
+        "3_2085560477707542528",
+        "3_2085560477703409664",
+        "3_2085560492123381760"
+      ],
+      "media_source_tweet_id": [
+        "2085711304858165287",
+        "2085711304858165287",
+        "2085711304858165287",
+        "2085711304858165287"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085733232944009390",
+    "created_at": "2026-08-07T14:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085733232944009390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "实体验证"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065242891795169280",
+          "start": 3,
+          "username": "cnaltgirls"
+        },
+        {
+          "end": 113,
+          "id": "2082446929330610176",
+          "start": 104,
+          "username": "yunch529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgaAyXkcBA",
+          "end": 138,
+          "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+          "media_key": "3_2085560477720150016",
+          "start": 115,
+          "url": "https://t.co/fgaAyXkcBA"
+        },
+        {
+          "display_url": "pic.x.com/fgaAyXkcBA",
+          "end": 138,
+          "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+          "media_key": "3_2085560477707542528",
+          "start": 115,
+          "url": "https://t.co/fgaAyXkcBA"
+        },
+        {
+          "display_url": "pic.x.com/fgaAyXkcBA",
+          "end": 138,
+          "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+          "media_key": "3_2085560477703409664",
+          "start": 115,
+          "url": "https://t.co/fgaAyXkcBA"
+        },
+        {
+          "display_url": "pic.x.com/fgaAyXkcBA",
+          "end": 138,
+          "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+          "media_key": "3_2085560492123381760",
+          "start": 115,
+          "url": "https://t.co/fgaAyXkcBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085733232944009390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085711304858165287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cnaltgirls: 边 缘 症 候 群 // 新 血 注 入                   \n\nNO.075 [ 现已通过 #实体验证 / 内部活体降落 ]          \n\n芙苏莉尔 @yunch529… https://t.co/fgaAyXkcBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2085560477720150016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFmNGgagAA5TpB.jpg",
+        "width": 793
+      },
+      {
+        "height": 720,
+        "media_key": "3_2085560477707542528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFmNGdaIAA84CF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2085560477703409664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFmNGcbEAAMg-5.jpg",
+        "width": 948
+      },
+      {
+        "height": 900,
+        "media_key": "3_2085560492123381760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFmN8KaYAAfxKd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085560477720150016",
+            "3_2085560477707542528",
+            "3_2085560477703409664",
+            "3_2085560492123381760"
+          ]
+        },
+        "author_id": "2065242891795169280",
+        "conversation_id": "2085711304858165287",
+        "created_at": "2026-08-07T12:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085711304858165287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "实体验证"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 97,
+              "id": "2082446929330610176",
+              "start": 88,
+              "username": "yunch529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 121,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560477720150016",
+              "start": 98,
+              "url": "https://t.co/fgaAyXkcBA"
+            },
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 121,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560477707542528",
+              "start": 98,
+              "url": "https://t.co/fgaAyXkcBA"
+            },
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 121,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560477703409664",
+              "start": 98,
+              "url": "https://t.co/fgaAyXkcBA"
+            },
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 121,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560492123381760",
+              "start": 98,
+              "url": "https://t.co/fgaAyXkcBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085711304858165287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "实体验证"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "id": "2082446929330610176",
+                "start": 88,
+                "username": "yunch529"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/altgirlxx",
+                "end": 590,
+                "expanded_url": "http://t.me/altgirlxx",
+                "start": 567,
+                "url": "https://t.co/DjwZqqdj4K"
+              },
+              {
+                "display_url": "t.me/yabishourong",
+                "end": 626,
+                "expanded_url": "http://t.me/yabishourong",
+                "start": 603,
+                "url": "https://t.co/yc07fbaA4C"
+              }
+            ]
+          },
+          "text": "边 缘 症 候 群 // 新 血 注 入                   \n\nNO.075 [ 现已通过 #实体验证 / 内部活体降落 ]          \n\n芙苏莉尔 @yunch529 \n\n自我定位为【游走于数字深渊与感官极值之间的成年诱惑载体】。作为本波段极具破坏力的女性活体，她彻底摒弃了任何幼态与干枯的劣质伪装，呈现出绝对成熟的姿态与极度丰满的生命力。机体垂直坐标锁定在168cm，伴随64kg的质量参数，构筑出一种充满肉感张力与丰腴压迫感的致命曲线。尤其是其超规格的 D级 前置装甲配置，在每一次线上数据交互中，都能以极强的成熟雌性魅力精准击穿观测者的心理防线。物理坐标长期锚定于长沙（星城枢纽），但该实体已彻底切断现实物理降落通道，仅维持【绝对线上交互】状态。她将全部的精神辐射与感官算力上传至网络，在虚拟链路中构筑出更为肆无忌惮的赛博魅惑与数字陷阱。\n\n[ 跨 域 越 界 协 议 // 全 光 谱 连 接 启 动 ] 现已全面打通基于数字基建的线上接驳通道，提供覆盖全光谱的活体陪伴协议：无论是基础模因共振（纯绿）、浅层神经末梢刺激（半绿），还是核心禁忌协议解禁（非绿），均可在线上完美执行（只接线上）。这是一场剥离了现实物理束缚的纯粹降落，在零距离的数据交锋中，等待同频者的接入。\n\nTelegram主频道：https://t.co/DjwZqqdj4K\nTG边 缘 症 候 群：https://t.co/yc07fbaA4C\n\n⛓️交流群的最终愿景，是建立一个不受限的次生代网络，精准链接每一位亚逼、地雷与门槛妹个体                   \n\n ⊗ 剥离主流的伪善，我们只和同类对话"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "边 缘 症 候 群 // 新 血 注 入                   \n\nNO.075 [ 现已通过 #实体验证 / 内部活体降落 ]          \n\n芙苏莉尔 @yunch529 https://t.co/fgaAyXkcBA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085560477720150016",
+            "3_2085560477707542528",
+            "3_2085560477703409664",
+            "3_2085560492123381760"
+          ],
+          "media_source_tweet_id": [
+            "2085711304858165287",
+            "2085711304858165287",
+            "2085711304858165287",
+            "2085711304858165287"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085733232944009390",
+        "created_at": "2026-08-07T14:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085733232944009390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "实体验证"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065242891795169280",
+              "start": 3,
+              "username": "cnaltgirls"
+            },
+            {
+              "end": 113,
+              "id": "2082446929330610176",
+              "start": 104,
+              "username": "yunch529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 138,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560477720150016",
+              "start": 115,
+              "url": "https://t.co/fgaAyXkcBA"
+            },
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 138,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560477707542528",
+              "start": 115,
+              "url": "https://t.co/fgaAyXkcBA"
+            },
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 138,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560477703409664",
+              "start": 115,
+              "url": "https://t.co/fgaAyXkcBA"
+            },
+            {
+              "display_url": "pic.x.com/fgaAyXkcBA",
+              "end": 138,
+              "expanded_url": "https://x.com/cnaltgirls/status/2085711304858165287/photo/1",
+              "media_key": "3_2085560492123381760",
+              "start": 115,
+              "url": "https://t.co/fgaAyXkcBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085733232944009390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085711304858165287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cnaltgirls: 边 缘 症 候 群 // 新 血 注 入                   \n\nNO.075 [ 现已通过 #实体验证 / 内部活体降落 ]          \n\n芙苏莉尔 @yunch529… https://t.co/fgaAyXkcBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 140,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T01:22:49.000Z",
+        "description": "✖️ 地雷妹 (Jirai Kei) ✖️ 量产型 ✖️ 病弱系 (Menhera) ✖️ 邪道可爱✖️ 亚逼 (altgirl) ✖️ 精神小妹 ✖️ Galu (辣妹) ✖️ 餐券妹 ✖️ 废土幸存者 ✖️ 天使界隈 ✖️ 水色界隈 ✖️ Y2K千禧✖️ 哥特 (Goth) ✖️ 视觉系 (VK) ✖️ 清楚系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asianaltgirls",
+                "end": 23,
+                "expanded_url": "https://t.me/asianaltgirls",
+                "start": 0,
+                "url": "https://t.co/PwvxXI4MRe"
+              }
+            ]
+          }
+        },
+        "id": "2065242891795169280",
+        "location": "Unknown ",
+        "name": "亚逼收容altgirlxx",
+        "pinned_tweet_id": "2070607988239552521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065264465751494656/w0GcaVWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 493,
+          "like_count": 780,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/PwvxXI4MRe",
+        "username": "cnaltgirls",
+        "verified": true
+      }
+    ]
+  }
+}

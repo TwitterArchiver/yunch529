@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083270242105794927",
+    "created_at": "2026-08-01T08:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083473354804314383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730251057316737024",
+          "start": 0,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083473354804314383",
+    "in_reply_to_user_id": "1730251057316737024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083457092103618938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SRamirez66171 ohno yun酱只是在剃眉毛而已😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083270242105794927",
+        "created_at": "2026-08-01T08:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083473354804314383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083473354804314383",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083457092103618938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 ohno yun酱只是在剃眉毛而已😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730251057316737024",
+        "conversation_id": "2083270242105794927",
+        "created_at": "2026-08-01T07:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083457092103618938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083457092103618938",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083270242105794927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 马斯克死空气警告⚠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 73,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083454884255297692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 58,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

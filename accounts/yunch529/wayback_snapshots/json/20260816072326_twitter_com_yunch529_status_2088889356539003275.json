@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088889356539003275",
+    "created_at": "2026-08-16T07:23:26.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088889356539003275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728415914012311552",
+          "start": 3,
+          "username": "YZW0563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088889356539003275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088885541588603188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YZW0563: 教你们个长寿秘诀\n每周135配合魔爪服用20t-48t右美沙芬\n每周246空腹服用4t-16t红普\n星期天去援交买药\n我奶就这样活到了120岁身体还嘎嘎硬朗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088889356539003275",
+        "created_at": "2026-08-16T07:23:26.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088889356539003275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728415914012311552",
+              "start": 3,
+              "username": "YZW0563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088889356539003275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088885541588603188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YZW0563: 教你们个长寿秘诀\n每周135配合魔爪服用20t-48t右美沙芬\n每周246空腹服用4t-16t红普\n星期天去援交买药\n我奶就这样活到了120岁身体还嘎嘎硬朗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728415914012311552",
+        "conversation_id": "2088885541588603188",
+        "created_at": "2026-08-16T07:08:17.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088885541588603188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088885541588603188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "教你们个长寿秘诀\n每周135配合魔爪服用20t-48t右美沙芬\n每周246空腹服用4t-16t红普\n星期天去援交买药\n我奶就这样活到了120岁身体还嘎嘎硬朗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088889356539003275",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 178,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-25T14:10:53.000Z",
+        "description": "Hi我叫椰椰｜照 片 都 是 高 P｜INTP-T｜05｜双相情感障碍｜重重重焦｜🚬🔪💊｜偶尔发点🔞\n性格极其古怪，把这当🚽啥都发｜不维护任何关系\n如果你有钱，我可以为你做任何事，我包容程度极高",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi1647951",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bibi1647951",
+                "start": 0,
+                "url": "https://t.co/FAv3jMGDDE"
+              }
+            ]
+          }
+        },
+        "id": "1728415914012311552",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2088886375772742135",
+        "name": "←请吃",
+        "pinned_tweet_id": "2088860222739579386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728415914012311552/1786381557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088026491011346432/Ah_Zy2yt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 220,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/FAv3jMGDDE",
+        "username": "YZW0563",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

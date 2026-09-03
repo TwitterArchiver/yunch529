@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090338178242859476",
+    "created_at": "2026-08-20T09:58:03.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090377816714232201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428762454788427780",
+          "start": 0,
+          "username": "shaniquanjia777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090377816714232201",
+    "in_reply_to_user_id": "1428762454788427780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090372528468623756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaniquanjia777 我实在太尼玛缺爱了 我也不想这样 好好笑啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090338178242859476",
+        "created_at": "2026-08-20T09:58:03.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090377816714232201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428762454788427780",
+              "start": 0,
+              "username": "shaniquanjia777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090377816714232201",
+        "in_reply_to_user_id": "1428762454788427780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090372528468623756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaniquanjia777 我实在太尼玛缺爱了 我也不想这样 好好笑啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428762454788427780",
+        "conversation_id": "2090338178242859476",
+        "created_at": "2026-08-20T09:37:02.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090372528468623756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090372528468623756",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090338178242859476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 easy girl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong123\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "maozhong123"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090377816714232201",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 221,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-20T16:54:57.000Z",
+        "description": "我喜欢看自残吸毒嗑药自杀影片并且在欣赏中射精",
+        "id": "1428762454788427780",
+        "is_identity_verified": false,
+        "location": "新西兰",
+        "most_recent_tweet_id": "2090375181701411263",
+        "name": "L",
+        "pinned_tweet_id": "2085640480524775912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428762454788427780/1786872154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088917301915701248/DXnB-Z-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 96,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "shaniquanjia777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

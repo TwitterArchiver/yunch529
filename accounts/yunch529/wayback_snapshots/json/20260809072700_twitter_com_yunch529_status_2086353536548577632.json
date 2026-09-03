@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086074570323447808"
+      ],
+      "media_source_tweet_id": [
+        "2086074779585650960"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086353536548577632",
+    "created_at": "2026-08-09T07:27:00.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086353536548577632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4roi66NBKq",
+          "end": 48,
+          "expanded_url": "https://x.com/bui_tu46916/status/2086074779585650960/video/1",
+          "media_key": "13_2086074570323447808",
+          "start": 25,
+          "url": "https://t.co/4roi66NBKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086353536548577632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086074570323447808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086074779585650960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 填词：拼接OD https://t.co/4roi66NBKq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100033,
+        "height": 1920,
+        "media_key": "13_2086074570323447808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086074570323447808/img/0oPoNc6TIxbW6CVb.jpg",
+        "public_metrics": {
+          "view_count": 756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086074570323447808/vid/avc1/320x568/MHDNCnxkolbMAle7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086074570323447808/vid/avc1/480x852/7uLPi71c3ho8LBWQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086074570323447808/vid/avc1/720x1280/OozLE8-WAtej72Jm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086074570323447808/pl/p_3kjoccQytHj-MH.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086074570323447808"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2086074779585650960",
+        "created_at": "2026-08-08T12:59:19.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086074779585650960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4roi66NBKq",
+              "end": 31,
+              "expanded_url": "https://x.com/bui_tu46916/status/2086074779585650960/video/1",
+              "media_key": "13_2086074570323447808",
+              "start": 8,
+              "url": "https://t.co/4roi66NBKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086074779585650960",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086074570323447808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1515,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "填词：拼接OD https://t.co/4roi66NBKq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086074570323447808"
+          ],
+          "media_source_tweet_id": [
+            "2086074779585650960"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086353536548577632",
+        "created_at": "2026-08-09T07:27:00.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086353536548577632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4roi66NBKq",
+              "end": 48,
+              "expanded_url": "https://x.com/bui_tu46916/status/2086074779585650960/video/1",
+              "media_key": "13_2086074570323447808",
+              "start": 25,
+              "url": "https://t.co/4roi66NBKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086353536548577632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086074570323447808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086074779585650960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 填词：拼接OD https://t.co/4roi66NBKq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086353536548577632",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 146,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2086289742149144650",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 329,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1055
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

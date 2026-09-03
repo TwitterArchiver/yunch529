@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088807513710006687",
+    "created_at": "2026-08-16T01:58:14.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088807513710006687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1317689258052710400",
+          "start": 3,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088807513710006687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088764547297620163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5oke_k29: 我早就应该不存在了 自爱吗 我不懂 如果我有父爱 我现在会是什么样呢 我不知道 也不知道以后的路该怎么走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088807513710006687",
+        "created_at": "2026-08-16T01:58:14.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088807513710006687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317689258052710400",
+              "start": 3,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088807513710006687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088764547297620163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5oke_k29: 我早就应该不存在了 自爱吗 我不懂 如果我有父爱 我现在会是什么样呢 我不知道 也不知道以后的路该怎么走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2088764547297620163",
+        "created_at": "2026-08-15T23:07:30.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088764547297620163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088764547297620163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 966,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我早就应该不存在了 自爱吗 我不懂 如果我有父爱 我现在会是什么样呢 我不知道 也不知道以后的路该怎么走"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088807513710006687",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 177,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088800821681311987",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6118,
+          "following_count": 151,
+          "like_count": 990,
+          "listed_count": 12,
+          "media_count": 335,
+          "tweet_count": 3049
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2086456446934565316",
+    "created_at": "2026-08-09T14:15:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086456446934565316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 124,
+          "tag": "Teddybear"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1426086135814508546",
+          "start": 3,
+          "username": "BearAnimatron1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086456446934565316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086451151357308972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BearAnimatron1c: 你们好，我是一只AuDHD小熊。我喜欢学习，也喜欢研究各种看似杂乱、实际上很有意思的东西。我喜欢小动物、毛绒玩具、咖啡、音乐、妆容和各种有自己风格的文化，也喜欢创造属于自己的审美。我喜欢转发一些恐怖的东东。#Teddybear http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2086451138803703808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSQQZmaoAAHytF.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2086451138715664385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSQQZRbQAEpHNE.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086451138690535424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSQQZLb0AA9CQU.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086451138686300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSQQZKbMAAzjJA.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2086456446934565316",
+        "created_at": "2026-08-09T14:15:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086456446934565316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 124,
+              "tag": "Teddybear"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1426086135814508546",
+              "start": 3,
+              "username": "BearAnimatron1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086456446934565316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086451151357308972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BearAnimatron1c: 你们好，我是一只AuDHD小熊。我喜欢学习，也喜欢研究各种看似杂乱、实际上很有意思的东西。我喜欢小动物、毛绒玩具、咖啡、音乐、妆容和各种有自己风格的文化，也喜欢创造属于自己的审美。我喜欢转发一些恐怖的东东。#Teddybear http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086451138803703808",
+            "3_2086451138715664385",
+            "3_2086451138690535424",
+            "3_2086451138686300160"
+          ]
+        },
+        "author_id": "1426086135814508546",
+        "conversation_id": "2086451151357308972",
+        "created_at": "2026-08-09T13:54:53.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086451151357308972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 103,
+              "tag": "Teddybear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bN21HXy7Vq",
+              "end": 137,
+              "expanded_url": "https://x.com/BearAnimatron1c/status/2086451151357308972/photo/1",
+              "media_key": "3_2086451138803703808",
+              "start": 114,
+              "url": "https://t.co/bN21HXy7Vq"
+            },
+            {
+              "display_url": "pic.x.com/bN21HXy7Vq",
+              "end": 137,
+              "expanded_url": "https://x.com/BearAnimatron1c/status/2086451151357308972/photo/1",
+              "media_key": "3_2086451138715664385",
+              "start": 114,
+              "url": "https://t.co/bN21HXy7Vq"
+            },
+            {
+              "display_url": "pic.x.com/bN21HXy7Vq",
+              "end": 137,
+              "expanded_url": "https://x.com/BearAnimatron1c/status/2086451151357308972/photo/1",
+              "media_key": "3_2086451138690535424",
+              "start": 114,
+              "url": "https://t.co/bN21HXy7Vq"
+            },
+            {
+              "display_url": "pic.x.com/bN21HXy7Vq",
+              "end": 137,
+              "expanded_url": "https://x.com/BearAnimatron1c/status/2086451151357308972/photo/1",
+              "media_key": "3_2086451138686300160",
+              "start": 114,
+              "url": "https://t.co/bN21HXy7Vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086451151357308972",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086451138803703808"
+          },
+          {
+            "media_key": "3_2086451138715664385"
+          },
+          {
+            "media_key": "3_2086451138690535424"
+          },
+          {
+            "media_key": "3_2086451138686300160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，我是一只AuDHD小熊。我喜欢学习，也喜欢研究各种看似杂乱、实际上很有意思的东西。我喜欢小动物、毛绒玩具、咖啡、音乐、妆容和各种有自己风格的文化，也喜欢创造属于自己的审美。我喜欢转发一些恐怖的东东。#Teddybear https://t.co/bN21HXy7Vq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086456448033358228",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 147,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:40:17.000Z",
+        "description": "Just a lil bear",
+        "id": "1426086135814508546",
+        "is_identity_verified": false,
+        "location": "Chiang Mai, Thailand",
+        "most_recent_tweet_id": "2086452362642911433",
+        "name": "Beatrix",
+        "pinned_tweet_id": "2086451151357308972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426086135814508546/1710158643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057799242044014592/NhNxey6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 62,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "BearAnimatron1c",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

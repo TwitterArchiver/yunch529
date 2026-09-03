@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089802897056035022",
+    "created_at": "2026-08-18T19:53:31.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089802897056035022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772860258710622208",
+          "start": 3,
+          "username": "xxxixixmwt"
+        },
+        {
+          "end": 28,
+          "id": "1780055196460048385",
+          "start": 16,
+          "username": "lll_Libujin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089802897056035022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089442629004267892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxixixmwt: @lll_Libujin 能不能把约稿的钱全退给我，我要买毒品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089802897056035022",
+        "created_at": "2026-08-18T19:53:31.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089802897056035022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772860258710622208",
+              "start": 3,
+              "username": "xxxixixmwt"
+            },
+            {
+              "end": 28,
+              "id": "1780055196460048385",
+              "start": 16,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089802897056035022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089442629004267892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxixixmwt: @lll_Libujin 能不能把约稿的钱全退给我，我要买毒品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772860258710622208",
+        "conversation_id": "2089373665309941795",
+        "created_at": "2026-08-17T20:01:57.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089442629004267892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089442629004267892",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089373665309941795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 能不能把约稿的钱全退给我，我要买毒品"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089802897056035022",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 210,
+          "like_count": 1880,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期休学躺平｜od割手｜双相情感障碍｜沢田纲吉孝女｜同类互fo｜第二人格@xxbxixi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089513549945286858",
+        "name": "网警",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772860258710622208/1784965318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 204,
+          "like_count": 4234,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixmwt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2089802125081731319",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 433,
+          "like_count": 7254,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

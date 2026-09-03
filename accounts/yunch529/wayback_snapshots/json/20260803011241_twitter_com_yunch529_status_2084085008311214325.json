@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2084085008311214325",
+    "created_at": "2026-08-03T01:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084085008311214325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544961704898940929",
+          "start": 3,
+          "username": "Baguette__9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084085008311214325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083882780501684472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baguette__9: 别人od自残你们健全逼就偷着乐吧，不然就应该哪天把你这个傻逼直接砍死😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2084085008311214325",
+        "created_at": "2026-08-03T01:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084085008311214325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544961704898940929",
+              "start": 3,
+              "username": "Baguette__9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084085008311214325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083882780501684472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Baguette__9: 别人od自残你们健全逼就偷着乐吧，不然就应该哪天把你这个傻逼直接砍死😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544961704898940929",
+        "conversation_id": "2083882780501684472",
+        "created_at": "2026-08-02T11:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083882780501684472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083882780501684472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5092,
+          "like_count": 179,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "别人od自残你们健全逼就偷着乐吧，不然就应该哪天把你这个傻逼直接砍死😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 117,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T08:29:17.000Z",
+        "description": "我已发现的内心的全部。",
+        "id": "1544961704898940929",
+        "name": "米安尿包",
+        "pinned_tweet_id": "2029043662118957411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878789814675521536/m2gOclDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 298,
+          "like_count": 12766,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 6872
+        },
+        "url": "",
+        "username": "Baguette__9",
+        "verified": false
+      }
+    ]
+  }
+}

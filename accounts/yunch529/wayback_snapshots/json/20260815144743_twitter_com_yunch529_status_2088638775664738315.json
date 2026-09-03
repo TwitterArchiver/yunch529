@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088638775664738315",
+    "created_at": "2026-08-15T14:47:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088638775664738315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883207896768651264",
+          "start": 3,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088638775664738315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088217653878120740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clem0216: 坏消息厂家说马上就要全面列管了\npr20盒以上40，ym30盒以上批发价16\n有哪位oder需要愈美片或普瑞巴林吗\n我有源头厂家的渠道，要的请私，加我微信h194188705\n普瑞规格为150mg32t的\n愈美规格为一盒24t\n愈美30普瑞60不包邮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2760,
+        "media_key": "3_2088217630813696000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrW3xJbsAAnZay.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2088217643786653696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrW4hebUAAN2GE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088638775664738315",
+        "created_at": "2026-08-15T14:47:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088638775664738315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883207896768651264",
+              "start": 3,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088638775664738315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088217653878120740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clem0216: 坏消息厂家说马上就要全面列管了\npr20盒以上40，ym30盒以上批发价16\n有哪位oder需要愈美片或普瑞巴林吗\n我有源头厂家的渠道，要的请私，加我微信h194188705\n普瑞规格为150mg32t的\n愈美规格为一盒24t\n愈美30普瑞60不包邮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088217630813696000",
+            "3_2088217643786653696"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2088217653878120740",
+        "created_at": "2026-08-14T10:54:20.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:51:57.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088217055577469178",
+          "2088217261131862194",
+          "2088217653878120740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGcYQccpze",
+              "end": 182,
+              "expanded_url": "https://x.com/clem0216/status/2088217653878120740/photo/1",
+              "media_key": "3_2088217630813696000",
+              "start": 159,
+              "url": "https://t.co/DGcYQccpze"
+            },
+            {
+              "display_url": "pic.x.com/DGcYQccpze",
+              "end": 182,
+              "expanded_url": "https://x.com/clem0216/status/2088217653878120740/photo/1",
+              "media_key": "3_2088217643786653696",
+              "start": 159,
+              "url": "https://t.co/DGcYQccpze"
+            },
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/clem0216/status/2086670650882560163",
+              "start": 183,
+              "url": "https://t.co/N6pkWzMd1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088217653878120740",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088217630813696000"
+          },
+          {
+            "media_key": "3_2088217643786653696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1084,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086670650882560163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏消息厂家说马上就要全面列管了\npr20盒以上40，ym30盒以上批发价16\n有哪位oder需要愈美片或普瑞巴林吗\n我有源头厂家的渠道，要的请私，加我微信h194188705\n普瑞规格为150mg32t的\n愈美规格为一盒24t\n愈美30普瑞60不包邮\n普瑞两盒起送\n可信任，可以帮忙转发下让更多oder看到吗，谢谢了 https://t.co/DGcYQccpze https://t.co/N6pkWzMd1l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088638775664738315",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 170,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为两千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem02161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem02161",
+                "start": 0,
+                "url": "https://t.co/ZtOzowjylj"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2088635346863198687",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883207896768651264/1776001298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1019,
+          "like_count": 15274,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/ZtOzowjylj",
+        "username": "clem0216",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

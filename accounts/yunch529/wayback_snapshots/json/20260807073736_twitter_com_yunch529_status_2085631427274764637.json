@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085631427274764637",
+    "created_at": "2026-08-07T07:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085631427274764637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886421046640902144",
+          "start": 3,
+          "username": "ry231223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085631427274764637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085290841732772110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ry231223: 昨天晚上被叫去公安局喝茶了，各位最近买药注意点，他们在查谁买了盐野义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085631427274764637",
+        "created_at": "2026-08-07T07:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085631427274764637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886421046640902144",
+              "start": 3,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085631427274764637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085290841732772110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ry231223: 昨天晚上被叫去公安局喝茶了，各位最近买药注意点，他们在查谁买了盐野义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2085290841732772110",
+        "created_at": "2026-08-06T09:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085290841732772110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085290841732772110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 855,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上被叫去公安局喝茶了，各位最近买药注意点，他们在查谁买了盐野义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 138,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 62,
+          "like_count": 2678,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

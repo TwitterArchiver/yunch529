@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087452150486245376",
+        "3_2087452150507175936"
+      ],
+      "media_source_tweet_id": [
+        "2087452158472171542",
+        "2087452158472171542"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090147252560183771",
+    "created_at": "2026-08-19T18:41:52.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090147252560183771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1347523202759548928",
+          "start": 3,
+          "username": "ecugkcu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JIwzu9YhBE",
+          "end": 63,
+          "expanded_url": "https://x.com/Kalesha83868657/status/2087452158472171542/photo/1",
+          "media_key": "3_2087452150486245376",
+          "start": 40,
+          "url": "https://t.co/JIwzu9YhBE"
+        },
+        {
+          "display_url": "pic.x.com/JIwzu9YhBE",
+          "end": 63,
+          "expanded_url": "https://x.com/Kalesha83868657/status/2087452158472171542/photo/1",
+          "media_key": "3_2087452150507175936",
+          "start": 40,
+          "url": "https://t.co/JIwzu9YhBE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090147252560183771",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087452150486245376"
+      },
+      {
+        "media_key": "3_2087452150507175936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087452158472171542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ecugkcu: 置顶🔝   \n转这条抽三个88\n女孩子跟我互转好不好 https://t.co/JIwzu9YhBE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087452150486245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgeq8tboAA8uB8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1591,
+        "media_key": "3_2087452150507175936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgeq8ybAAAydkG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087452150486245376",
+            "3_2087452150507175936"
+          ],
+          "media_source_tweet_id": [
+            "2087452158472171542",
+            "2087452158472171542"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090147252560183771",
+        "created_at": "2026-08-19T18:41:52.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090147252560183771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1347523202759548928",
+              "start": 3,
+              "username": "ecugkcu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIwzu9YhBE",
+              "end": 63,
+              "expanded_url": "https://x.com/Kalesha83868657/status/2087452158472171542/photo/1",
+              "media_key": "3_2087452150486245376",
+              "start": 40,
+              "url": "https://t.co/JIwzu9YhBE"
+            },
+            {
+              "display_url": "pic.x.com/JIwzu9YhBE",
+              "end": 63,
+              "expanded_url": "https://x.com/Kalesha83868657/status/2087452158472171542/photo/1",
+              "media_key": "3_2087452150507175936",
+              "start": 40,
+              "url": "https://t.co/JIwzu9YhBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090147252560183771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087452150486245376"
+          },
+          {
+            "media_key": "3_2087452150507175936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087452158472171542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ecugkcu: 置顶🔝   \n转这条抽三个88\n女孩子跟我互转好不好 https://t.co/JIwzu9YhBE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087452150486245376",
+            "3_2087452150507175936"
+          ]
+        },
+        "author_id": "1347523202759548928",
+        "conversation_id": "2087452158472171542",
+        "created_at": "2026-08-12T08:12:32.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087452158472171542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIwzu9YhBE",
+              "end": 50,
+              "expanded_url": "https://x.com/Kalesha83868657/status/2087452158472171542/photo/1",
+              "media_key": "3_2087452150486245376",
+              "start": 27,
+              "url": "https://t.co/JIwzu9YhBE"
+            },
+            {
+              "display_url": "pic.x.com/JIwzu9YhBE",
+              "end": 50,
+              "expanded_url": "https://x.com/Kalesha83868657/status/2087452158472171542/photo/1",
+              "media_key": "3_2087452150507175936",
+              "start": 27,
+              "url": "https://t.co/JIwzu9YhBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087452158472171542",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087452150486245376"
+          },
+          {
+            "media_key": "3_2087452150507175936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3930,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置顶🔝   \n转这条抽三个88\n女孩子跟我互转好不好 https://t.co/JIwzu9YhBE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090147252560183771",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 209,
+          "like_count": 2105,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-08T12:39:21.000Z",
+        "description": "🚪88 188 288 520 888 1314 无上限越多越爱你//私信只回门槛口令//已成年//重生归来我想夺回属于我的一切//坐标问题均15",
+        "id": "1347523202759548928",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2090134083338932392",
+        "name": "e",
+        "pinned_tweet_id": "2087452158472171542",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347523202759548928/1786522136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089246585981157376/df3shoxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 3,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "ecugkcu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

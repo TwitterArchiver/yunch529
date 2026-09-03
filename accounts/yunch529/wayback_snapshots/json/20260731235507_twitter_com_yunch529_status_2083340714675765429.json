@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2081454422601965670",
+    "created_at": "2026-07-31T23:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083340714675765429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2078923160880398336",
+          "start": 0,
+          "username": "fufurcqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083340714675765429",
+    "in_reply_to_user_id": "2078923160880398336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081454422601965670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufurcqr 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3548,
+        "media_key": "3_2081454411864481792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLPwnNaIAA2ppD.jpg",
+        "width": 2434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2081454422601965670",
+        "created_at": "2026-07-31T23:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083340714675765429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078923160880398336",
+              "start": 0,
+              "username": "fufurcqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083340714675765429",
+        "in_reply_to_user_id": "2078923160880398336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081454422601965670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufurcqr 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081454411864481792"
+          ]
+        },
+        "author_id": "2078923160880398336",
+        "conversation_id": "2081454422601965670",
+        "created_at": "2026-07-26T18:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081454422601965670"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "雰囲気女子"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "量産"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvGpXCyEDU",
+              "end": 46,
+              "expanded_url": "https://x.com/fufurcqr/status/2081454422601965670/photo/1",
+              "media_key": "3_2081454411864481792",
+              "start": 23,
+              "url": "https://t.co/mvGpXCyEDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081454422601965670",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#雰囲気女子 #量産 #自撮り界隈 #地雷系 https://t.co/mvGpXCyEDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T19:22:10.000Z",
+        "description": "",
+        "id": "2078923160880398336",
+        "location": "喜欢女生男的关注死全家",
+        "name": "条条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080705170829422593/exKBIxhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "fufurcqr",
+        "verified": false
+      }
+    ]
+  }
+}

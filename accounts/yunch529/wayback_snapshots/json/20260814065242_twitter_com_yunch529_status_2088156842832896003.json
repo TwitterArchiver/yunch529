@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088156842832896003",
+    "created_at": "2026-08-14T06:52:42.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088156842832896003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886278115955273728",
+          "start": 3,
+          "username": "Xiaobai_hell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088156842832896003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087793482564030706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaobai_hell: 好想死在药效里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088156842832896003",
+        "created_at": "2026-08-14T06:52:42.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088156842832896003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886278115955273728",
+              "start": 3,
+              "username": "Xiaobai_hell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088156842832896003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087793482564030706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaobai_hell: 好想死在药效里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886278115955273728",
+        "conversation_id": "2087793482564030706",
+        "created_at": "2026-08-13T06:48:50.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087793482564030706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087793482564030706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想死在药效里"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088156842832896003",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 164,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T04:58:54.000Z",
+        "description": "淡推不是在幸福 是有点亖了",
+        "id": "1886278115955273728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087928367823921288",
+        "name": "shiroi",
+        "pinned_tweet_id": "1932256468654498153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886278115955273728/1748280533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008349871104028676/uWhdu7br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 142,
+          "like_count": 25065,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 4392
+        },
+        "url": "",
+        "username": "Xiaobai_hell",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

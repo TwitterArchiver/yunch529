@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089959394754891777",
+    "created_at": "2026-08-19T06:15:23.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089959394754891777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1987805389904396288",
+          "start": 3,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089959394754891777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089926495309631564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaruYukii0421: 各位推油们天天不是愈美就是白兔的 吃这么多镇咳药嗓子一定很好罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089959394754891777",
+        "created_at": "2026-08-19T06:15:23.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089959394754891777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1987805389904396288",
+              "start": 3,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089959394754891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089926495309631564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaruYukii0421: 各位推油们天天不是愈美就是白兔的 吃这么多镇咳药嗓子一定很好罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987805389904396288",
+        "conversation_id": "2089926495309631564",
+        "created_at": "2026-08-19T04:04:40.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089926495309631564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089926495309631564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位推油们天天不是愈美就是白兔的 吃这么多镇咳药嗓子一定很好罢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089959394754891777",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 215,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "🔪💊❤️\n同类互fo喵\n提问箱：https://t.co/cnThTXnKUl\n最最爱的小狗@zhangyuKawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "zhangyuKawaii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%B…",
+                "end": 39,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%BE%8A",
+                "start": 16,
+                "url": "https://t.co/cnThTXnKUl"
+              }
+            ]
+          }
+        },
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2089926633751015697",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 446,
+          "like_count": 6751,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

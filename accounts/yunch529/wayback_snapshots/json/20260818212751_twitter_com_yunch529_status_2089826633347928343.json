@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089826633347928343",
+    "created_at": "2026-08-18T21:27:51.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089826633347928343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832664562086060032",
+          "start": 3,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089826633347928343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089721856274145320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amy526969: 我感觉吃亏是福这个词是古人真的吃亏吃到没招了才想出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089826633347928343",
+        "created_at": "2026-08-18T21:27:51.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089826633347928343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832664562086060032",
+              "start": 3,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089826633347928343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089721856274145320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amy526969: 我感觉吃亏是福这个词是古人真的吃亏吃到没招了才想出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2089721856274145320",
+        "created_at": "2026-08-18T14:31:30.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089721856274145320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089721856274145320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19253,
+          "like_count": 489,
+          "quote_count": 1,
+          "reply_count": 115,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉吃亏是福这个词是古人真的吃亏吃到没招了才想出来的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089826633347928343",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 213,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "宝贝们可以叫我艾米｜🎺 @mili07190 只过互关｜文案有搬運｜提问箱 https://t.co/mQpJze4fzI｜☝️推广真假自辨｜宝贝们你如果特别恨我这个网友，那你就举起手机狠狠地摔向地面，然后我就消失了呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 61,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 38,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089825888007291317",
+        "name": "amy",
+        "pinned_tweet_id": "2087201498425856397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832664562086060032/1726908072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 138,
+          "like_count": 18871,
+          "listed_count": 3,
+          "media_count": 526,
+          "tweet_count": 7034
+        },
+        "url": "",
+        "username": "Amy526969",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

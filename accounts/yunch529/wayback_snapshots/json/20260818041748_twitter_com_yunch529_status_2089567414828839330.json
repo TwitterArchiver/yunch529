@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089567414828839330",
+    "created_at": "2026-08-18T04:17:48.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089567414828839330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089567414828839330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084137982328721749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 精神病院存在的意义。就是你们去治病，然后给你们开狗屎喹硫平，让你认清精神病并学会隐藏 然后痛苦的活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089567414828839330",
+        "created_at": "2026-08-18T04:17:48.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089567414828839330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089567414828839330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084137982328721749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 精神病院存在的意义。就是你们去治病，然后给你们开狗屎喹硫平，让你认清精神病并学会隐藏 然后痛苦的活下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2084137982328721749",
+        "created_at": "2026-08-03T04:43:11.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084137982328721749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084137982328721749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6438,
+          "like_count": 89,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "精神病院存在的意义。就是你们去治病，然后给你们开狗屎喹硫平，让你认清精神病并学会隐藏 然后痛苦的活下去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\nod蛆 zc 暴露癖 大脑光滑 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089567414828839330",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 195,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2089560156522815822",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 508,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

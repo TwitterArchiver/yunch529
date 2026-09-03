@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090131607835611434",
+    "created_at": "2026-08-19T17:39:42.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090131607835611434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726969617850286080",
+          "start": 3,
+          "username": "K1ku21_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090131607835611434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794759567085383820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1ku21_: 我会再次进入西格玛第五高原"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090131607835611434",
+        "created_at": "2026-08-19T17:39:42.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090131607835611434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726969617850286080",
+              "start": 3,
+              "username": "K1ku21_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090131607835611434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794759567085383820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1ku21_: 我会再次进入西格玛第五高原"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "1794759567085383820",
+        "created_at": "2024-05-26T15:56:40.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2024-05-26T16:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794759567085383820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794759567085383820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3365,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我会再次进入西格玛第五高原"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090131607835611434",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 207,
+          "like_count": 2083,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推\n关注@Yesmynamehaer1 @MukugeOvO @Nijika_Dark2 @winterfruit_1 @tianxiao0502 @Akinoyo_desu谢谢喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Yesmynamehaer1"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "MukugeOvO"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Nijika_Dark2"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "tianxiao0502"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZTiV6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "is_identity_verified": false,
+        "location": "天目山路305号",
+        "most_recent_tweet_id": "2090067070264451314",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726969617850286080/1759513143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088823027933093888/mRDdqdIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 249,
+          "like_count": 25350,
+          "listed_count": 3,
+          "media_count": 723,
+          "tweet_count": 14070
+        },
+        "url": "https://t.co/5udd6ZTiV6",
+        "username": "K1ku21_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

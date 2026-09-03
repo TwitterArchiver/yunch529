@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089795371962970300",
+    "created_at": "2026-08-18T19:23:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089795371962970300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999829904377188352",
+          "start": 3,
+          "username": "angelishpup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089795371962970300",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089516194357289194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelishpup: my original name [redacted] is the name i had before kainushi-sama gave me my new name... i mean angel is kinda basic.. bu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2089516188531302400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9z5xnWIAADGkJ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089795371962970300",
+        "created_at": "2026-08-18T19:23:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089795371962970300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999829904377188352",
+              "start": 3,
+              "username": "angelishpup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089795371962970300",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089516194357289194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelishpup: my original name [redacted] is the name i had before kainushi-sama gave me my new name... i mean angel is kinda basic.. bu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089516188531302400"
+          ]
+        },
+        "author_id": "1999829904377188352",
+        "conversation_id": "2089516194357289194",
+        "created_at": "2026-08-18T00:54:16.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089516194357289194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Z4dopJTyB",
+              "end": 299,
+              "expanded_url": "https://x.com/angelishpup/status/2089516194357289194/photo/1",
+              "media_key": "3_2089516188531302400",
+              "start": 276,
+              "url": "https://t.co/8Z4dopJTyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089516194357289194",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089516188531302400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 284,
+                "start": 277,
+                "tag": "vtuber"
+              },
+              {
+                "end": 293,
+                "start": 285,
+                "tag": "menhera"
+              },
+              {
+                "end": 301,
+                "start": 294,
+                "tag": "morute"
+              },
+              {
+                "end": 308,
+                "start": 302,
+                "tag": "ryona"
+              },
+              {
+                "end": 321,
+                "start": 309,
+                "tag": "artishangel"
+              },
+              {
+                "end": 335,
+                "start": 324,
+                "tag": "myi_korosi"
+              }
+            ]
+          },
+          "text": "my original name [redacted] is the name i had before kainushi-sama gave me my new name... i mean angel is kinda basic.. but kainushi-sama didn't wanna call me [redacted]! that's okay 🖤 \n\nkainushi-sama can call me whatever the like. puppy will always love them no matter what!\n\n#vtuber #menhera #morute #ryona #artishangel © #myi_korosi"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 2376,
+          "like_count": 418,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "my original name [redacted] is the name i had before kainushi-sama gave me my new name... i mean angel is kinda basic.. but kainushi-sama didn't wanna call me [redacted]! that's okay 🖤 \n\nkainushi-sama can call me whatever the like. puppy will always love them no matter what! https://t.co/8Z4dopJTyB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089795371962970300",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 210,
+          "like_count": 1826,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T13:13:10.000Z",
+        "description": "🦷🐾 pathetically angelic puppy in your basement\nmorute otokonoko. . . variety streamer & artist\n✏️ #artishangel\n🔞 #lewdishpup",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 98,
+                "tag": "artishangel"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "tag": "lewdishpup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/angelishpup",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/angelishpup",
+                "start": 0,
+                "url": "https://t.co/akGXwOD4ho"
+              }
+            ]
+          }
+        },
+        "id": "1999829904377188352",
+        "is_identity_verified": false,
+        "location": "p: me ",
+        "most_recent_tweet_id": "2089759909168509046",
+        "name": "angel 🐾🦷【 VTUBER 】",
+        "pinned_tweet_id": "2086429908222238918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999829904377188352/1786665184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075718351104430080/WYGNa_Aa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 312,
+          "like_count": 4509,
+          "listed_count": 8,
+          "media_count": 510,
+          "tweet_count": 4712
+        },
+        "url": "https://t.co/akGXwOD4ho",
+        "username": "angelishpup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

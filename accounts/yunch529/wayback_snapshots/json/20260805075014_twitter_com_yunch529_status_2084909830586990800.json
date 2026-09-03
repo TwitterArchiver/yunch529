@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084908643334664193"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2084909830586990800",
+    "created_at": "2026-08-05T07:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084909830586990800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UG2se2j1o4",
+          "end": 30,
+          "expanded_url": "https://x.com/yunch529/status/2084909830586990800/video/1",
+          "media_key": "13_2084908643334664193",
+          "start": 7,
+          "url": "https://t.co/UG2se2j1o4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084909830586990800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去了伊春看鹿 https://t.co/UG2se2j1o4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10998,
+        "height": 960,
+        "media_key": "13_2084908643334664193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084908643334664193/img/2KxSdhhzl_2yNmBJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084908643334664193/vid/avc1/320x426/QyBP-HlLomlj-wKx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084908643334664193/vid/avc1/480x640/V4G8JioN0WAdleRd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084908643334664193/vid/avc1/720x960/Lfuv77dBuH_zHG8e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084908643334664193/pl/J07M8ZP11ljpLNlQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084908643334664193"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2084909830586990800",
+        "created_at": "2026-08-05T07:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084909830586990800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UG2se2j1o4",
+              "end": 30,
+              "expanded_url": "https://x.com/yunch529/status/2084909830586990800/video/1",
+              "media_key": "13_2084908643334664193",
+              "start": 7,
+              "url": "https://t.co/UG2se2j1o4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084909830586990800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去了伊春看鹿 https://t.co/UG2se2j1o4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 119,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      }
+    ]
+  }
+}

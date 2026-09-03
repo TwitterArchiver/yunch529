@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2084875849690706426",
+    "created_at": "2026-08-05T05:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084875849690706426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "705087107849703424",
+          "start": 3,
+          "username": "NomfusiSetlhodi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084875849690706426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084689545141100975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NomfusiSetlhodi: 你们好呀！我是伊井瀮！。在这里求赞十分抱歉orzz。。因为父母断供只交学费，，导致我买完校服交完学杂已经陷入极度贫困状态……希望如果宝宝有能力可以资助我一下下喵orzz，，如果有闲钱我也会帮助其他宝宝们！！谢谢大家喵。。求转❤️ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2084688683970740224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5NUBtaQAANJCn.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084688684046245888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5NUB_aYAAU08d.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084688684029497344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5NUB7a0AAMKRi.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2084875849690706426",
+        "created_at": "2026-08-05T05:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084875849690706426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "705087107849703424",
+              "start": 3,
+              "username": "NomfusiSetlhodi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084875849690706426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084689545141100975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NomfusiSetlhodi: 你们好呀！我是伊井瀮！。在这里求赞十分抱歉orzz。。因为父母断供只交学费，，导致我买完校服交完学杂已经陷入极度贫困状态……希望如果宝宝有能力可以资助我一下下喵orzz，，如果有闲钱我也会帮助其他宝宝们！！谢谢大家喵。。求转❤️ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084688683970740224",
+            "3_2084688684046245888",
+            "3_2084688684029497344"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2084689545141100975",
+        "created_at": "2026-08-04T17:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084689545141100975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TK90XGRVJq",
+              "end": 138,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2084689545141100975/photo/1",
+              "media_key": "3_2084688683970740224",
+              "start": 115,
+              "url": "https://t.co/TK90XGRVJq"
+            },
+            {
+              "display_url": "pic.x.com/TK90XGRVJq",
+              "end": 138,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2084689545141100975/photo/1",
+              "media_key": "3_2084688684046245888",
+              "start": 115,
+              "url": "https://t.co/TK90XGRVJq"
+            },
+            {
+              "display_url": "pic.x.com/TK90XGRVJq",
+              "end": 138,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2084689545141100975/photo/1",
+              "media_key": "3_2084688684029497344",
+              "start": 115,
+              "url": "https://t.co/TK90XGRVJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084689545141100975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你们好呀！我是伊井瀮！。在这里求赞十分抱歉orzz。。因为父母断供只交学费，，导致我买完校服交完学杂已经陷入极度贫困状态……希望如果宝宝有能力可以资助我一下下喵orzz，，如果有闲钱我也会帮助其他宝宝们！！谢谢大家喵。。求转❤️ https://t.co/TK90XGRVJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 123,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 亲侄子@woaiuai0721❀🐱@niconekkod❀🐈@shennaichuan_❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "niconekkod"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "shennaichuan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 79,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

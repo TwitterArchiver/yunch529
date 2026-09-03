@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088161130170736858",
+    "created_at": "2026-08-14T07:09:44.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088161130170736858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088161130170736858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087732517004792216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 你现在遇到的所有事情都是小学时候你在校门口忘带的那条红领巾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088161130170736858",
+        "created_at": "2026-08-14T07:09:44.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088161130170736858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088161130170736858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087732517004792216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 你现在遇到的所有事情都是小学时候你在校门口忘带的那条红领巾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2087732517004792216",
+        "created_at": "2026-08-13T02:46:34.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087732517004792216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087732517004792216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 246597,
+          "like_count": 5373,
+          "quote_count": 35,
+          "reply_count": 541,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "你现在遇到的所有事情都是小学时候你在校门口忘带的那条红领巾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088161130170736858",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 164,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2088158215364309042",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12320,
+          "following_count": 75,
+          "like_count": 9230,
+          "listed_count": 13,
+          "media_count": 200,
+          "tweet_count": 2224
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

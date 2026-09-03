@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2083880694317793346",
+    "created_at": "2026-08-02T16:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083946193076490381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083946193076490381",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083880694317793346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui wc 蹲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2083880689779568640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtuckybcAAR5M2.jpg",
+        "width": 1861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2083880694317793346",
+        "created_at": "2026-08-02T16:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083946193076490381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083946193076490381",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083880694317793346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui wc 蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083880689779568640"
+          ]
+        },
+        "author_id": "1445681460497694723",
+        "conversation_id": "2083880694317793346",
+        "created_at": "2026-08-02T11:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083880694317793346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBv0PW5YV5",
+              "end": 44,
+              "expanded_url": "https://x.com/cryptochenrui/status/2083880694317793346/photo/1",
+              "media_key": "3_2083880689779568640",
+              "start": 21,
+              "url": "https://t.co/HBv0PW5YV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083880694317793346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一单要是成了我发20×50给眼熟互关😁 https://t.co/HBv0PW5YV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 117,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学，农村穷蛆。雏见泽村民。长滨城主。crypto寄生虫。大陆流浪者。\n欢迎温良边缘人。有同类内容直fo。\n🈲过激健全品客男女拳",
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "普瑞栗子",
+        "pinned_tweet_id": "2083880694317793346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146894247907328/yghvpj2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 338,
+          "like_count": 10370,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 2798
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

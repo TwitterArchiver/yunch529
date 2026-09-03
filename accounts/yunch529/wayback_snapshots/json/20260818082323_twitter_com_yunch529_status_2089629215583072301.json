@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089629215583072301",
+    "created_at": "2026-08-18T08:23:23.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T09:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089629215583072301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544081244585185280",
+          "start": 3,
+          "username": "chamattleao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089629215583072301",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089301116076896734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chamattleao: procedimento estéticos que eu faria:\n\n1- eutanásia \n2- coma induzido \n3- lobotomia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089629215583072301",
+        "created_at": "2026-08-18T08:23:23.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089629215583072301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544081244585185280",
+              "start": 3,
+              "username": "chamattleao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089629215583072301",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089301116076896734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chamattleao: procedimento estéticos que eu faria:\n\n1- eutanásia \n2- coma induzido \n3- lobotomia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544081244585185280",
+        "conversation_id": "2089301116076896734",
+        "created_at": "2026-08-17T10:39:38.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089301116076896734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089301116076896734",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1452,
+          "impression_count": 662606,
+          "like_count": 68064,
+          "quote_count": 294,
+          "reply_count": 64,
+          "retweet_count": 22440
+        },
+        "reply_settings": "everyone",
+        "text": "procedimento estéticos que eu faria:\n\n1- eutanásia \n2- coma induzido \n3- lobotomia"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089629215583072301",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 198,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T22:11:05.000Z",
+        "description": "piu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amaral_nini?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amaral_nini?igsh=MXl4eDdndnBmOGk2",
+                "start": 0,
+                "url": "https://t.co/HBwvmNquzR"
+              }
+            ]
+          }
+        },
+        "id": "1544081244585185280",
+        "is_identity_verified": false,
+        "location": "Coitadolandia",
+        "most_recent_tweet_id": "2089517823605256356",
+        "name": "мαтт",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544081244585185280/1776085078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946725406108745729/UvjdXzWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22388,
+          "following_count": 11699,
+          "like_count": 119521,
+          "listed_count": 15,
+          "media_count": 4420,
+          "tweet_count": 46333
+        },
+        "url": "https://t.co/HBwvmNquzR",
+        "username": "chamattleao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

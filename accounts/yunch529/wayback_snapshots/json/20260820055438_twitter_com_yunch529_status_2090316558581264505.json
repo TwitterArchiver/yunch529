@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090115773532635229",
+    "created_at": "2026-08-20T05:54:38.000Z",
+    "display_text_range": [
+      17,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090316558581264505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236134053205557248",
+          "start": 0,
+          "username": "fQRWXKb6o7Pnw7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090316558581264505",
+    "in_reply_to_user_id": "1236134053205557248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090309361604366465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fQRWXKb6o7Pnw7f 我打算等他回去给他甩了 我不缺人喜欢 闹很烦的 他昨天就是把我当乐子了hhhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090115773532635229",
+        "created_at": "2026-08-20T05:54:38.000Z",
+        "display_text_range": [
+          17,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090316558581264505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236134053205557248",
+              "start": 0,
+              "username": "fQRWXKb6o7Pnw7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090316558581264505",
+        "in_reply_to_user_id": "1236134053205557248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090309361604366465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fQRWXKb6o7Pnw7f 我打算等他回去给他甩了 我不缺人喜欢 闹很烦的 他昨天就是把我当乐子了hhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236134053205557248",
+        "conversation_id": "2090115773532635229",
+        "created_at": "2026-08-20T05:26:02.000Z",
+        "display_text_range": [
+          10,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090309361604366465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082446929330610176",
+              "start": 0,
+              "username": "yunch529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090309361604366465",
+        "in_reply_to_user_id": "2082446929330610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090138833941864532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunch529 看你个人选择吧～毕竟有人喜欢虐恋感。但是叭如果追求幸福应该是找幸福体验才是～😐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong123\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "maozhong123"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090316558581264505",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 215,
+          "like_count": 2150,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T03:38:38.000Z",
+        "description": "探究本质就是我的性格和动机",
+        "id": "1236134053205557248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090311770200301816",
+        "name": "精神病院院长",
+        "pinned_tweet_id": "1928323815978754220",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236134053205557248/1748582978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928322893802524673/MI5QTX50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 221,
+          "like_count": 267,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 4450
+        },
+        "url": "",
+        "username": "fQRWXKb6o7Pnw7f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

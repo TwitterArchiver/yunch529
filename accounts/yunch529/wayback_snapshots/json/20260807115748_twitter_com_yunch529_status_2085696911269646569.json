@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085696911269646569",
+    "created_at": "2026-08-07T11:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085696911269646569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2070179375174352897",
+          "start": 3,
+          "username": "icczoefgko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085696911269646569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085003613995487638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icczoefgko: 卡泡爽点到底在哪。俩个搁个手机对着玩然后说点骚话，尬的抠脚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085696911269646569",
+        "created_at": "2026-08-07T11:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085696911269646569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2070179375174352897",
+              "start": 3,
+              "username": "icczoefgko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085696911269646569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085003613995487638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @icczoefgko: 卡泡爽点到底在哪。俩个搁个手机对着玩然后说点骚话，尬的抠脚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070179375174352897",
+        "conversation_id": "2085003613995487638",
+        "created_at": "2026-08-05T14:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085003613995487638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085003613995487638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 525340,
+          "like_count": 2382,
+          "quote_count": 9,
+          "reply_count": 872,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "卡泡爽点到底在哪。俩个搁个手机对着玩然后说点骚话，尬的抠脚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 140,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T16:17:44.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子/可以叫我咬咬。不约不卡不想和你认识不想和你处对象别私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoyao79953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoyao79953",
+                "start": 0,
+                "url": "https://t.co/iQkdIgZAnA"
+              }
+            ]
+          }
+        },
+        "id": "2070179375174352897",
+        "location": "我想发啥就发啥🧚🏻‍♀️",
+        "name": "icczoe",
+        "pinned_tweet_id": "2082888025571573880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085292283679891456/iBngfwVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 58,
+          "like_count": 672,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/iQkdIgZAnA",
+        "username": "icczoefgko",
+        "verified": false
+      }
+    ]
+  }
+}

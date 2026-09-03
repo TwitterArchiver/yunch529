@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088285997532696576"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088286016310587409",
+    "created_at": "2026-08-14T15:25:59.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088286016310587409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AypL9rvKOG",
+          "end": 30,
+          "expanded_url": "https://x.com/yunch529/status/2088286016310587409/photo/1",
+          "media_key": "3_2088285997532696576",
+          "start": 7,
+          "url": "https://t.co/AypL9rvKOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088286016310587409",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088285997532696576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "特效化妆内容 https://t.co/AypL9rvKOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088285997532696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsVDPBb0AABcl6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088285997532696576"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088286016310587409",
+        "created_at": "2026-08-14T15:25:59.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088286016310587409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AypL9rvKOG",
+              "end": 30,
+              "expanded_url": "https://x.com/yunch529/status/2088286016310587409/photo/1",
+              "media_key": "3_2088285997532696576",
+              "start": 7,
+              "url": "https://t.co/AypL9rvKOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088286016310587409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088285997532696576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特效化妆内容 https://t.co/AypL9rvKOG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088286016310587409",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 168,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

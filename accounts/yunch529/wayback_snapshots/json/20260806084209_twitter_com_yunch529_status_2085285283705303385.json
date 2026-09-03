@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085259128545661378",
+    "created_at": "2026-08-06T08:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085285283705303385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728415914012311552",
+          "start": 0,
+          "username": "bibi164795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085285283705303385",
+    "in_reply_to_user_id": "1728415914012311552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085259128545661378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibi164795 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3169,
+        "media_key": "3_2085259112271769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBUHUua8AAT8R4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085259128545661378",
+        "created_at": "2026-08-06T08:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085285283705303385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728415914012311552",
+              "start": 0,
+              "username": "bibi164795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085285283705303385",
+        "in_reply_to_user_id": "1728415914012311552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085259128545661378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibi164795 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085259112271769600"
+          ]
+        },
+        "author_id": "1728415914012311552",
+        "conversation_id": "2085259128545661378",
+        "created_at": "2026-08-06T06:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085259128545661378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMRQW8nXwz",
+              "end": 27,
+              "expanded_url": "https://x.com/bibi164795/status/2085259128545661378/photo/1",
+              "media_key": "3_2085259112271769600",
+              "start": 4,
+              "url": "https://t.co/CMRQW8nXwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085259128545661378",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "¯꒳¯ https://t.co/CMRQW8nXwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 126,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T14:10:53.000Z",
+        "description": "hi我叫木耶，09年，也可以叫我椰椰｜我有双相情感障碍｜会发一些割o裸和碎碎念\n🚪52｜记得备注vx号｜过门解锁更多，可以专为你拍一些涩涩💗",
+        "id": "1728415914012311552",
+        "location": " ",
+        "name": "🥥",
+        "pinned_tweet_id": "2085224708929138917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085034708392722433/meP76tzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "bibi164795",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087962705819000832",
+        "3_2087962705768726528",
+        "3_2087962705789591553",
+        "3_2087962705764421632"
+      ],
+      "media_source_tweet_id": [
+        "2087962714484429096",
+        "2087962714484429096",
+        "2087962714484429096",
+        "2087962714484429096"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088141752087806035",
+    "created_at": "2026-08-14T05:52:44.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088141752087806035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784109678953480192",
+          "start": 3,
+          "username": "chidianmaima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RcGfYLgTdb",
+          "end": 58,
+          "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+          "media_key": "3_2087962705819000832",
+          "start": 35,
+          "url": "https://t.co/RcGfYLgTdb"
+        },
+        {
+          "display_url": "pic.x.com/RcGfYLgTdb",
+          "end": 58,
+          "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+          "media_key": "3_2087962705768726528",
+          "start": 35,
+          "url": "https://t.co/RcGfYLgTdb"
+        },
+        {
+          "display_url": "pic.x.com/RcGfYLgTdb",
+          "end": 58,
+          "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+          "media_key": "3_2087962705789591553",
+          "start": 35,
+          "url": "https://t.co/RcGfYLgTdb"
+        },
+        {
+          "display_url": "pic.x.com/RcGfYLgTdb",
+          "end": 58,
+          "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+          "media_key": "3_2087962705764421632",
+          "start": 35,
+          "url": "https://t.co/RcGfYLgTdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088141752087806035",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087962705819000832"
+      },
+      {
+        "media_key": "3_2087962705768726528"
+      },
+      {
+        "media_key": "3_2087962705789591553"
+      },
+      {
+        "media_key": "3_2087962705764421632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087962714484429096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chidianmaima: 你好，这种人民英雄在哪里可以找到 https://t.co/RcGfYLgTdb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087962705819000832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnvBLia4AAFZXC.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087962705768726528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnvBLWbwAARE5i.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087962705789591553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnvBLbaIAEdXFt.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087962705764421632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnvBLVaEAASLi4.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087962705819000832",
+            "3_2087962705768726528",
+            "3_2087962705789591553",
+            "3_2087962705764421632"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087962714484429096",
+        "created_at": "2026-08-13T18:01:18.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087962714484429096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 40,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705819000832",
+              "start": 17,
+              "url": "https://t.co/RcGfYLgTdb"
+            },
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 40,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705768726528",
+              "start": 17,
+              "url": "https://t.co/RcGfYLgTdb"
+            },
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 40,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705789591553",
+              "start": 17,
+              "url": "https://t.co/RcGfYLgTdb"
+            },
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 40,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705764421632",
+              "start": 17,
+              "url": "https://t.co/RcGfYLgTdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087962714484429096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087962705819000832"
+          },
+          {
+            "media_key": "3_2087962705768726528"
+          },
+          {
+            "media_key": "3_2087962705789591553"
+          },
+          {
+            "media_key": "3_2087962705764421632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3422,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好，这种人民英雄在哪里可以找到 https://t.co/RcGfYLgTdb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087962705819000832",
+            "3_2087962705768726528",
+            "3_2087962705789591553",
+            "3_2087962705764421632"
+          ],
+          "media_source_tweet_id": [
+            "2087962714484429096",
+            "2087962714484429096",
+            "2087962714484429096",
+            "2087962714484429096"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088141752087806035",
+        "created_at": "2026-08-14T05:52:44.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088141752087806035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784109678953480192",
+              "start": 3,
+              "username": "chidianmaima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 58,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705819000832",
+              "start": 35,
+              "url": "https://t.co/RcGfYLgTdb"
+            },
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 58,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705768726528",
+              "start": 35,
+              "url": "https://t.co/RcGfYLgTdb"
+            },
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 58,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705789591553",
+              "start": 35,
+              "url": "https://t.co/RcGfYLgTdb"
+            },
+            {
+              "display_url": "pic.x.com/RcGfYLgTdb",
+              "end": 58,
+              "expanded_url": "https://x.com/chidianmaima/status/2087962714484429096/photo/1",
+              "media_key": "3_2087962705764421632",
+              "start": 35,
+              "url": "https://t.co/RcGfYLgTdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088141752087806035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087962705819000832"
+          },
+          {
+            "media_key": "3_2087962705768726528"
+          },
+          {
+            "media_key": "3_2087962705789591553"
+          },
+          {
+            "media_key": "3_2087962705764421632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087962714484429096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chidianmaima: 你好，这种人民英雄在哪里可以找到 https://t.co/RcGfYLgTdb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088141752087806035",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 164,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088132828139761830",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 101,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

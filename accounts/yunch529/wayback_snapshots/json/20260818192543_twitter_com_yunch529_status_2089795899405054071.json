@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089795899405054071",
+    "created_at": "2026-08-18T19:25:43.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089795899405054071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910629733785870336",
+          "start": 3,
+          "username": "ji_chu25601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089795899405054071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089480384119783705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chu25601: 毁掉你的从来都𣎴是pr dxm药或毒品而是生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089795899405054071",
+        "created_at": "2026-08-18T19:25:43.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089795899405054071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910629733785870336",
+              "start": 3,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089795899405054071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089480384119783705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chu25601: 毁掉你的从来都𣎴是pr dxm药或毒品而是生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2089480384119783705",
+        "created_at": "2026-08-17T22:31:58.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089480384119783705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089480384119783705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 982,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "毁掉你的从来都𣎴是pr dxm药或毒品而是生活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089795899405054071",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 210,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089529716793606296",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2074992077231026593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910629733785870336/1774513738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 149,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

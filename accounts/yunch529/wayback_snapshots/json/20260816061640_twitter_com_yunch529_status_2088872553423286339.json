@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088577757534121984"
+      ],
+      "media_source_tweet_id": [
+        "2088577769525395489"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2088872553423286339",
+    "created_at": "2026-08-16T06:16:40.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088872553423286339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "759055104",
+          "start": 3,
+          "username": "OrizaDebut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1JodJFV9N",
+          "end": 68,
+          "expanded_url": "https://x.com/OrizaDebut/status/2088577769525395489/photo/1",
+          "media_key": "3_2088577757534121984",
+          "start": 45,
+          "url": "https://t.co/h1JodJFV9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088872553423286339",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088577757534121984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088577769525395489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OrizaDebut: Small account be like.♥️♥️♥️ https://t.co/h1JodJFV9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2088577757534121984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPweZ5uacAAikuZ.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088577757534121984"
+          ],
+          "media_source_tweet_id": [
+            "2088577769525395489"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2088872553423286339",
+        "created_at": "2026-08-16T06:16:40.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088872553423286339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "759055104",
+              "start": 3,
+              "username": "OrizaDebut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1JodJFV9N",
+              "end": 68,
+              "expanded_url": "https://x.com/OrizaDebut/status/2088577769525395489/photo/1",
+              "media_key": "3_2088577757534121984",
+              "start": 45,
+              "url": "https://t.co/h1JodJFV9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088872553423286339",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088577757534121984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088577769525395489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OrizaDebut: Small account be like.♥️♥️♥️ https://t.co/h1JodJFV9N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088577757534121984"
+          ]
+        },
+        "author_id": "759055104",
+        "conversation_id": "2088577769525395489",
+        "created_at": "2026-08-15T10:45:18.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088577769525395489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1JodJFV9N",
+              "end": 52,
+              "expanded_url": "https://x.com/OrizaDebut/status/2088577769525395489/photo/1",
+              "media_key": "3_2088577757534121984",
+              "start": 29,
+              "url": "https://t.co/h1JodJFV9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088577769525395489",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088577757534121984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 148326,
+          "like_count": 8652,
+          "quote_count": 127,
+          "reply_count": 227,
+          "retweet_count": 1322
+        },
+        "reply_settings": "everyone",
+        "text": "Small account be like.♥️♥️♥️ https://t.co/h1JodJFV9N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088872553423286339",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 178,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-08-15T10:22:44.000Z",
+        "description": "♡ Oriza | V/Artist ... Vtuber | ♡\n\n⛩ Quiet Moon Princess | ♡  Little Dreams | ♡ Shadow Dreamers \n⛩ Personal Artist for : @JoniWelz ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "JoniWelz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/orizadebut",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/orizadebut",
+                "start": 0,
+                "url": "https://t.co/RbQGwL6232"
+              }
+            ]
+          }
+        },
+        "id": "759055104",
+        "is_identity_verified": false,
+        "location": "♡ ⛩",
+        "most_recent_tweet_id": "2088577769525395489",
+        "name": "Oriza ♡ ⛩",
+        "pinned_tweet_id": "2055737043452596394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759055104/1779213376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056795278490128384/uemtleEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1317,
+          "like_count": 2782,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/RbQGwL6232",
+        "username": "OrizaDebut",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

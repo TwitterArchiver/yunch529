@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2089987640951214510",
+    "created_at": "2026-08-19T08:52:27.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089998921691287814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennainai666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089998921691287814",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089987640951214510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennainai666 哒哒哒哒哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2089987640951214510",
+        "created_at": "2026-08-19T08:52:27.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089998921691287814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennainai666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089998921691287814",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089987640951214510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennainai666 哒哒哒哒哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2089987640951214510",
+        "created_at": "2026-08-19T08:07:38.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089987640951214510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089987640951214510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶 云朵？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2089998921691287814",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 206,
+          "like_count": 1999,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089987640951214510",
+        "name": "河南之神",
+        "pinned_tweet_id": "2088754378874466735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926,
+          "following_count": 762,
+          "like_count": 1216,
+          "listed_count": 3,
+          "media_count": 520,
+          "tweet_count": 4091
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

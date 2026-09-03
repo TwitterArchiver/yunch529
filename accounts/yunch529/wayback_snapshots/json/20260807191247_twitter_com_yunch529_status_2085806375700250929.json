@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085776625392619520"
+      ],
+      "media_source_tweet_id": [
+        "2085776638201962865"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085806375700250929",
+    "created_at": "2026-08-07T19:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085806375700250929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728415914012311552",
+          "start": 3,
+          "username": "bibi164795"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/isu8IYCQxq",
+          "end": 84,
+          "expanded_url": "https://x.com/bibi164795/status/2085776638201962865/photo/1",
+          "media_key": "3_2085776625392619520",
+          "start": 61,
+          "url": "https://t.co/isu8IYCQxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085806375700250929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085776638201962865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bibi164795: 🚪20，记得备注vx号哦🤍\n\n其他金额可以定制 可以解锁更多🖤\n\n每天都可以陪哥哥聊天🤍 https://t.co/isu8IYCQxq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2085776625392619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIqyjVXEAAh0NW.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085776625392619520"
+          ]
+        },
+        "author_id": "1728415914012311552",
+        "conversation_id": "2085776638201962865",
+        "created_at": "2026-08-07T17:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085776638201962865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isu8IYCQxq",
+              "end": 68,
+              "expanded_url": "https://x.com/bibi164795/status/2085776638201962865/photo/1",
+              "media_key": "3_2085776625392619520",
+              "start": 45,
+              "url": "https://t.co/isu8IYCQxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085776638201962865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚪20，记得备注vx号哦🤍\n\n其他金额可以定制 可以解锁更多🖤\n\n每天都可以陪哥哥聊天🤍 https://t.co/isu8IYCQxq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085776625392619520"
+          ],
+          "media_source_tweet_id": [
+            "2085776638201962865"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085806375700250929",
+        "created_at": "2026-08-07T19:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085806375700250929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728415914012311552",
+              "start": 3,
+              "username": "bibi164795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/isu8IYCQxq",
+              "end": 84,
+              "expanded_url": "https://x.com/bibi164795/status/2085776638201962865/photo/1",
+              "media_key": "3_2085776625392619520",
+              "start": 61,
+              "url": "https://t.co/isu8IYCQxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085806375700250929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085776638201962865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bibi164795: 🚪20，记得备注vx号哦🤍\n\n其他金额可以定制 可以解锁更多🖤\n\n每天都可以陪哥哥聊天🤍 https://t.co/isu8IYCQxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 140,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T14:10:53.000Z",
+        "description": "hi我叫木耶，09年，也可以叫我椰椰｜我有双相情感障碍｜会发一些割o裸和碎碎念\n🚪20｜记得备注vx号｜过门解锁更多，可以专为你拍一些涩涩💗",
+        "id": "1728415914012311552",
+        "location": " ",
+        "name": "🥥",
+        "pinned_tweet_id": "2085776638201962865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085034708392722433/meP76tzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "bibi164795",
+        "verified": false
+      }
+    ]
+  }
+}

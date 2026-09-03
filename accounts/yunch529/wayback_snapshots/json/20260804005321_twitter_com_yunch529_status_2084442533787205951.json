@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2084442533787205951",
+    "created_at": "2026-08-04T00:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084442533787205951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084442533787205951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084420981570068858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 几乎所有小孩都幻想过，用自己的死亡，来惩罚令他们伤心的大人，因为孱弱的身体和尚未成型的社会关系令他们只能了结自己，从而激发强者的懊悔，他们拥有的实在太少太少，最珍贵的就是生命。一个人的童年时期因为缺乏多维的工具，往往更加充斥着对死亡的迷恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2084442533787205951",
+        "created_at": "2026-08-04T00:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084442533787205951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084442533787205951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084420981570068858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 几乎所有小孩都幻想过，用自己的死亡，来惩罚令他们伤心的大人，因为孱弱的身体和尚未成型的社会关系令他们只能了结自己，从而激发强者的懊悔，他们拥有的实在太少太少，最珍贵的就是生命。一个人的童年时期因为缺乏多维的工具，往往更加充斥着对死亡的迷恋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2084420981570068858",
+        "created_at": "2026-08-03T23:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084420981570068858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084420981570068858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "几乎所有小孩都幻想过，用自己的死亡，来惩罚令他们伤心的大人，因为孱弱的身体和尚未成型的社会关系令他们只能了结自己，从而激发强者的懊悔，他们拥有的实在太少太少，最珍贵的就是生命。一个人的童年时期因为缺乏多维的工具，往往更加充斥着对死亡的迷恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 122,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 680,
+          "like_count": 1015,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 3618
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

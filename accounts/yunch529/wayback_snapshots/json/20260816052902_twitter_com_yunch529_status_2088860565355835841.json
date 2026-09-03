@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088822949419823104"
+      ],
+      "media_source_tweet_id": [
+        "2088822956353065126"
+      ]
+    },
+    "author_id": "2082446929330610176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088860565355835841",
+    "created_at": "2026-08-16T05:29:02.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088860565355835841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hyBUPb3MtB",
+          "end": 40,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2088822956353065126/photo/1",
+          "media_key": "3_2088822949419823104",
+          "start": 17,
+          "url": "https://t.co/hyBUPb3MtB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088860565355835841",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088822949419823104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088822956353065126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: https://t.co/hyBUPb3MtB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2088822949419823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPz9Z8raMAAIPIq.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088822949419823104"
+          ],
+          "media_source_tweet_id": [
+            "2088822956353065126"
+          ]
+        },
+        "author_id": "2082446929330610176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088860565355835841",
+        "created_at": "2026-08-16T05:29:02.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088860565355835841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyBUPb3MtB",
+              "end": 40,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2088822956353065126/photo/1",
+              "media_key": "3_2088822949419823104",
+              "start": 17,
+              "url": "https://t.co/hyBUPb3MtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088860565355835841",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088822949419823104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088822956353065126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: https://t.co/hyBUPb3MtB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088822949419823104"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088822956353065126",
+        "created_at": "2026-08-16T02:59:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088822956353065126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyBUPb3MtB",
+              "end": 23,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2088822956353065126/photo/1",
+              "media_key": "3_2088822949419823104",
+              "start": 0,
+              "url": "https://t.co/hyBUPb3MtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088822956353065126",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088822949419823104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 787,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hyBUPb3MtB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088860565355835841",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 178,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2088859159555138028",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083870888664219648/kFxXDJre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 452,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

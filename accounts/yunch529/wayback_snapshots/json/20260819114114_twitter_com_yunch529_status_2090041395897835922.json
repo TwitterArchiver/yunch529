@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090041395897835922",
+    "created_at": "2026-08-19T11:41:14.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090041395897835922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518083228136984576",
+          "start": 3,
+          "username": "ArivenDar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090041395897835922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089922591503049021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArivenDar: 宝宝我想到今天要跟你约会就紧张的一直喝水，可能有点水肿，大概300斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090041395897835922",
+        "created_at": "2026-08-19T11:41:14.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090041395897835922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518083228136984576",
+              "start": 3,
+              "username": "ArivenDar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090041395897835922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089922591503049021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArivenDar: 宝宝我想到今天要跟你约会就紧张的一直喝水，可能有点水肿，大概300斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518083228136984576",
+        "conversation_id": "2089922591503049021",
+        "created_at": "2026-08-19T03:49:09.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089922591503049021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089922591503049021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4609,
+          "like_count": 155,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝我想到今天要跟你约会就紧张的一直喝水，可能有点水肿，大概300斤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090041395897835922",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 205,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-24T04:24:13.000Z",
+        "description": "你可以一直陪我玩吗？",
+        "id": "1518083228136984576",
+        "is_identity_verified": false,
+        "location": "好吧",
+        "most_recent_tweet_id": "2090033957652041844",
+        "name": "白烏鴉.",
+        "pinned_tweet_id": "2064551618436313236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518083228136984576/1784286261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078073312509661184/GXy8QPcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 2336,
+          "like_count": 148290,
+          "listed_count": 4,
+          "media_count": 1706,
+          "tweet_count": 14294
+        },
+        "url": "",
+        "username": "ArivenDar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

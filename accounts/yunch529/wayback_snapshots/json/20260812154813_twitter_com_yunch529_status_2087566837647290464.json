@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2087566837647290464",
+    "created_at": "2026-08-12T15:48:13.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087566837647290464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083081810859466752",
+          "start": 3,
+          "username": "yuzhazha69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087566837647290464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086454141279179033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzhazha69: 想象一下马斯克是你的强控制欲男友。啥话不说给你号封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2087566837647290464",
+        "created_at": "2026-08-12T15:48:13.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087566837647290464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083081810859466752",
+              "start": 3,
+              "username": "yuzhazha69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087566837647290464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086454141279179033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzhazha69: 想象一下马斯克是你的强控制欲男友。啥话不说给你号封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083081810859466752",
+        "conversation_id": "2086454141279179033",
+        "created_at": "2026-08-09T14:06:46.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086454141279179033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086454141279179033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 45689,
+          "like_count": 1131,
+          "quote_count": 16,
+          "reply_count": 205,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下马斯克是你的强控制欲男友。啥话不说给你号封了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n最爱的💗@maozhong\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087566837647290464",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 158,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\nod/自伤/精神病内容\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087566569878819234",
+        "name": "炸炸火乍玉",
+        "pinned_tweet_id": "2086345944996659524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083081810859466752/1785480562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 176,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

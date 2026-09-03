@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085043333697835194",
+    "created_at": "2026-08-05T16:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085043333697835194"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "门槛"
+        },
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2022488264268296192",
+          "start": 3,
+          "username": "MotherMaryundb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085043333697835194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055095481148248552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MotherMaryundb: 你好 我是ganyaku 07/162/108  我現在因為經濟困難，沒有生活費，所以接純綠半綠線下媽媽活爸爸活₍ᐢ..ᐢ₎♡IP 成都 如果你想約我，或者是給我一頓飯吃的話🚪288 歡迎小女孩找我互fo互轉呀\n#门槛 #门槛妹 #爸爸活…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2055095474173157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUqcgWaoAAjquf.jpg",
+        "width": 717
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055095473585934337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUqceKaUAEhgmD.jpg",
+        "width": 768
+      },
+      {
+        "height": 950,
+        "media_key": "3_2055095474106126336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUqcgGb0AAU7p7.jpg",
+        "width": 720
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2055095475058143232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUqcjpacAAK94V.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085043333697835194",
+        "created_at": "2026-08-05T16:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085043333697835194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "门槛"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2022488264268296192",
+              "start": 3,
+              "username": "MotherMaryundb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085043333697835194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055095481148248552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MotherMaryundb: 你好 我是ganyaku 07/162/108  我現在因為經濟困難，沒有生活費，所以接純綠半綠線下媽媽活爸爸活₍ᐢ..ᐢ₎♡IP 成都 如果你想約我，或者是給我一頓飯吃的話🚪288 歡迎小女孩找我互fo互轉呀\n#门槛 #门槛妹 #爸爸活…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055095474173157376",
+            "3_2055095473585934337",
+            "3_2055095474106126336",
+            "3_2055095475058143232"
+          ]
+        },
+        "author_id": "2022488264268296192",
+        "conversation_id": "2055095481148248552",
+        "created_at": "2026-05-15T01:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055095481148248552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "门槛"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "租借女友"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "纯绿"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "半绿"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "线下"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "女高"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "反差女高"
+            },
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "原味定制"
+            },
+            {
+              "end": 169,
+              "start": 165,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gm80NjhISn",
+              "end": 193,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2055095481148248552/photo/1",
+              "media_key": "3_2055095474173157376",
+              "start": 170,
+              "url": "https://t.co/Gm80NjhISn"
+            },
+            {
+              "display_url": "pic.x.com/Gm80NjhISn",
+              "end": 193,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2055095481148248552/photo/1",
+              "media_key": "3_2055095473585934337",
+              "start": 170,
+              "url": "https://t.co/Gm80NjhISn"
+            },
+            {
+              "display_url": "pic.x.com/Gm80NjhISn",
+              "end": 193,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2055095481148248552/photo/1",
+              "media_key": "3_2055095474106126336",
+              "start": 170,
+              "url": "https://t.co/Gm80NjhISn"
+            },
+            {
+              "display_url": "pic.x.com/Gm80NjhISn",
+              "end": 193,
+              "expanded_url": "https://x.com/MotherMaryundb/status/2055095481148248552/photo/1",
+              "media_key": "3_2055095475058143232",
+              "start": 170,
+              "url": "https://t.co/Gm80NjhISn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055095481148248552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 21906,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "你好 我是ganyaku 07/162/108  我現在因為經濟困難，沒有生活費，所以接純綠半綠線下媽媽活爸爸活₍ᐢ..ᐢ₎♡IP 成都 如果你想約我，或者是給我一頓飯吃的話🚪288 歡迎小女孩找我互fo互轉呀\n#门槛 #门槛妹 #爸爸活 #租借女友 #妈妈活 #ATM奴 #纯绿 #半绿 #线下 #女高 #反差女高 #原味定制 #爸爸活 https://t.co/Gm80NjhISn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2083297247027228905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 121,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T01:50:24.000Z",
+        "description": "别欺负我，我真的很温良 🚪不退 188/288/520/1314 \n💊依赖，穿孔，自伤戒断，🚬🍷依赖",
+        "id": "2022488264268296192",
+        "location": "小于300m【请勿查询】",
+        "name": "薬種",
+        "pinned_tweet_id": "2055095481148248552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022488716191895554/b8J1ik7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 63,
+          "like_count": 1797,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "MotherMaryundb",
+        "verified": false
+      }
+    ]
+  }
+}

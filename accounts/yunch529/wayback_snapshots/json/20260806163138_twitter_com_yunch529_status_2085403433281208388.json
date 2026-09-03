@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085403433281208388",
+    "created_at": "2026-08-06T16:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085403433281208388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895801357992595456",
+          "start": 3,
+          "username": "Meowinatorrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085403433281208388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081485801343664373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meowinatorrr: 置顶🔝（也不知道谁和给我举报了。我现在真的很惨我求你们对我善良一点 我伤害过的人我给你们道歉不要再折磨我了）\n你好👋我是小寒 我有精神疾病 现在在积极治疗需要赚钱来做心理咨询和买药\n🚪128/188/520/1314/3888/5200…\n门…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081485789549166592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLsTCMaAAAo6ny.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085403433281208388",
+        "created_at": "2026-08-06T16:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085403433281208388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895801357992595456",
+              "start": 3,
+              "username": "Meowinatorrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085403433281208388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081485801343664373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meowinatorrr: 置顶🔝（也不知道谁和给我举报了。我现在真的很惨我求你们对我善良一点 我伤害过的人我给你们道歉不要再折磨我了）\n你好👋我是小寒 我有精神疾病 现在在积极治疗需要赚钱来做心理咨询和买药\n🚪128/188/520/1314/3888/5200…\n门…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081485789549166592"
+          ]
+        },
+        "author_id": "1895801357992595456",
+        "conversation_id": "2081485801343664373",
+        "created_at": "2026-07-26T21:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081485801343664373"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 159,
+              "start": 154,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vftPlTAvLM",
+              "end": 183,
+              "expanded_url": "https://x.com/Meowinatorrr/status/2081485801343664373/photo/1",
+              "media_key": "3_2081485789549166592",
+              "start": 160,
+              "url": "https://t.co/vftPlTAvLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081485801343664373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 723,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝（也不知道谁和给我举报了。我现在真的很惨我求你们对我善良一点 我伤害过的人我给你们道歉不要再折磨我了）\n你好👋我是小寒 我有精神疾病 现在在积极治疗需要赚钱来做心理咨询和买药\n🚪128/188/520/1314/3888/5200…\n门槛没有上线 打赏的越多我越爱您❤️\n支持口令和微信支付\n#门槛妹 #电子女友 https://t.co/vftPlTAvLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 133,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T11:40:52.000Z",
+        "description": "坐标25 不给钱别私信\n防诈小号@zennie0901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "zennie0901"
+              }
+            ]
+          }
+        },
+        "id": "1895801357992595456",
+        "name": "珍珍咪",
+        "pinned_tweet_id": "2081485801343664373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068468455637188609/311waeTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 28,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "Meowinatorrr",
+        "verified": false
+      }
+    ]
+  }
+}

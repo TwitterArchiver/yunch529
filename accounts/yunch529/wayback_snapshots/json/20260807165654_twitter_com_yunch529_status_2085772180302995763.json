@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2085772180302995763",
+    "created_at": "2026-08-07T16:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085772180302995763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592120524276002817",
+          "start": 3,
+          "username": "c17desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085772180302995763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085649562019013060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c17desuwa: 其实我觉得最完美的网络树洞就是推特，无需扩列就能刷新一些人来评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2085772180302995763",
+        "created_at": "2026-08-07T16:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085772180302995763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592120524276002817",
+              "start": 3,
+              "username": "c17desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085772180302995763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085649562019013060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c17desuwa: 其实我觉得最完美的网络树洞就是推特，无需扩列就能刷新一些人来评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592120524276002817",
+        "conversation_id": "2085649562019013060",
+        "created_at": "2026-08-07T08:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085649562019013060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085649562019013060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2531,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得最完美的网络树洞就是推特，无需扩列就能刷新一些人来评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "我是yun 前世 @Yunofd6 @Yun6lyr\nod自伤。自戒中 11年 LGBT友好 欢迎同类互fo\n迫于生存 🚪52 喵 可以解锁更多呀 我拍一些涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Yunofd6"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Yun6lyr"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "name": "Yun",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 140,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "Can I chat with you？🤔",
+        "id": "1592120524276002817",
+        "location": "距你114514m",
+        "name": "c17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 300,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "c17desuwa",
+        "verified": false
+      }
+    ]
+  }
+}

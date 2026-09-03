@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2082446929330610176",
+    "conversation_id": "2090027473975333291",
+    "created_at": "2026-08-19T10:45:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090027473975333291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2038173281170194432",
+          "start": 3,
+          "username": "CandyflossTian"
+        },
+        {
+          "end": 65,
+          "id": "1862782134479708160",
+          "start": 51,
+          "username": "LingYuejiejie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090027473975333291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089920701168025944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CandyflossTian: 大家好，本人是田村棉花糖，今天怀着沉重的心情，发布一则讣告：\n@LingYuejiejie 8月16号离开这个世界，她既是我的姐姐也是我的爱人对象，我无法诉说这些痛苦，姐姐吞药自杀，被家里人忽视，被家里人压力之下导致离开，我也紫砂未成，愿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082446929330610176",
+        "conversation_id": "2090027473975333291",
+        "created_at": "2026-08-19T10:45:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090027473975333291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2038173281170194432",
+              "start": 3,
+              "username": "CandyflossTian"
+            },
+            {
+              "end": 65,
+              "id": "1862782134479708160",
+              "start": 51,
+              "username": "LingYuejiejie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090027473975333291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089920701168025944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CandyflossTian: 大家好，本人是田村棉花糖，今天怀着沉重的心情，发布一则讣告：\n@LingYuejiejie 8月16号离开这个世界，她既是我的姐姐也是我的爱人对象，我无法诉说这些痛苦，姐姐吞药自杀，被家里人忽视，被家里人压力之下导致离开，我也紫砂未成，愿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038173281170194432",
+        "conversation_id": "2089920701168025944",
+        "created_at": "2026-08-19T03:41:38.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089920701168025944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1862782134479708160",
+              "start": 31,
+              "username": "LingYuejiejie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089920701168025944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2610,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，本人是田村棉花糖，今天怀着沉重的心情，发布一则讣告：\n@LingYuejiejie 8月16号离开这个世界，她既是我的姐姐也是我的爱人对象，我无法诉说这些痛苦，姐姐吞药自杀，被家里人忽视，被家里人压力之下导致离开，我也紫砂未成，愿姐姐她永远在天上是那颗明亮的星星，下一次是个女孩子...晚安姐姐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:45:10.000Z",
+        "description": "可以叫我芙苏莉尔或者yun\n年龄小 脑子真的不好 冒犯的话对不起\nod蛆 zc 暴露癖 zs未遂三次\n最爱💗@maozhong\n门槛52喵 我活不起了喵 hhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "maozhong"
+              }
+            ]
+          }
+        },
+        "id": "2082446929330610176",
+        "is_identity_verified": false,
+        "location": "希望被拥抱吧 所以在某人的怀里",
+        "most_recent_tweet_id": "2090027473975333291",
+        "name": "Yun 3.0）巡回互关中",
+        "pinned_tweet_id": "2085359071541285090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082446929330610176/1785329261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082447839322595328/LUHbLfO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 205,
+          "like_count": 2029,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "yunch529",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T08:36:02.000Z",
+        "description": "是一个很喜欢头发和可爱东西的小药娘哦～新进小药娘！含糖2个月～个人比较阴暗，宅宅的～心情不好的时候可能会有问题哦，这是新的自我！\n最好的姐姐同时也是爱人.@LingYuejiejie\n个人小号.@tangtangmianhua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingYuejiejie"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "tangtangmianhua"
+              }
+            ]
+          }
+        },
+        "id": "2038173281170194432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089920701168025944",
+        "name": "田村棉花糖🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038173281170194432/1782554656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070810392532840448/ud7xN0ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 352,
+          "like_count": 209,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "CandyflossTian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T08:54:37.000Z",
+        "description": "17岁 164/99 坐标上海 可能是人类？ Mtf🏳️‍⚧️ Hrt起始时间：2022.4.23 最可爱的妹妹：@CandyflossTian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "CandyflossTian"
+              }
+            ]
+          }
+        },
+        "id": "1862782134479708160",
+        "is_identity_verified": false,
+        "location": "佛罗里达州奥兰多",
+        "most_recent_tweet_id": "2078047264371847483",
+        "name": "泠月",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862782134479708160/1770903126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021940328706846720/tik7upuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 908,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "LingYuejiejie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
